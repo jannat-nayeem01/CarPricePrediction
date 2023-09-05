@@ -37,3 +37,10 @@
 	at /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.50/dist/extension.bundle.js:1:71295
 	at _0x39d7ab (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.50/dist/extension.bundle.js:1:83032)
 	at async H.provideCompletionItems (/root/.vscode-server/bin/2ccd690cbff1569e4a83d7c43d45101f817401dc/out/vs/workbench/api/node/extensionHostProcess.js:102:50297)
+2023-09-05 10:54:54.516 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-09-05 11:14:03.569 [error] Error: Client network socket disconnected before secure TLS connection was established
+	at connResetException (node:internal/errors:704:14)
+	at TLSSocket.onConnectEnd (node:_tls_wrap:1590:19)
+	at TLSSocket.emit (node:events:525:35)
+	at endReadableNT (node:internal/streams/readable:1358:12)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
