@@ -1,0 +1,19 @@
+2023-09-05 03:15:01.395 [info] [Info  - 3:15:01 AM] (385) Pylance language server 2023.8.50 (pyright f98da719) starting
+2023-09-05 03:15:01.399 [info] [Info  - 3:15:01 AM] (385) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.50/dist
+2023-09-05 03:15:01.400 [info] [Info  - 3:15:01 AM] (385) Starting service instance "code"
+2023-09-05 03:15:01.457 [info] [Info  - 3:15:01 AM] (385) Setting pythonPath for service "code": "/bin/python3"
+2023-09-05 03:15:01.469 [info] [Warn  - 3:15:01 AM] (385) stubPath /root/code/typings is not a valid directory.
+2023-09-05 03:15:01.570 [info] [Info  - 3:15:01 AM] (385) Assuming Python version 3.11
+2023-09-05 03:15:01.784 [info] [Info  - 3:15:01 AM] (385) Found 1 source file
+2023-09-05 03:15:01.914 [info] [Info  - 3:15:01 AM] (385) Starting service instance "code"
+2023-09-05 03:15:01.955 [info] [Warn  - 3:15:01 AM] (385) stubPath /root/code/typings is not a valid directory.
+2023-09-05 03:15:02.281 [info] [Info  - 3:15:02 AM] (385) Found 1 source file
+2023-09-05 03:15:08.794 [info] [Info  - 3:15:08 AM] (385) [BG(2)] Long operation: analyzing: /root/code/CarPricePrediction01.ipynb:pylance-notebook-cell:pylancePrefixCell.py (4851ms)
+2023-09-05 03:15:09.310 [info] [Info  - 3:15:09 AM] (385) [IDX(3)] Long operation: index execution environment /root/code (3454ms)
+2023-09-05 03:15:09.326 [info] [Info  - 3:15:09 AM] (385) [IDX(3)] Long operation: index packages /root/code (3558ms)
+2023-09-05 03:15:15.491 [info] [Info  - 3:15:15 AM] (385) Starting service instance "code"
+2023-09-05 03:15:15.544 [info] [Info  - 3:15:15 AM] (385) Setting pythonPath for service "code": "/usr/local/bin/python"
+2023-09-05 03:15:15.551 [info] [Warn  - 3:15:15 AM] (385) stubPath /root/code/typings is not a valid directory.
+2023-09-05 03:15:15.706 [info] [Info  - 3:15:15 AM] (385) Assuming Python version 3.9
+2023-09-05 03:15:16.077 [info] [Info  - 3:15:16 AM] (385) Found 1 source file
+2023-09-05 03:15:20.214 [info] [Info  - 3:15:20 AM] (385) [BG(4)] Long operation: analyzing: /root/code/CarPricePrediction01.ipynb:pylance-notebook-cell:pylancePrefixCell.py (3329ms)

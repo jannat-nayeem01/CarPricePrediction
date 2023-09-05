@@ -1,0 +1,25 @@
+2023-09-04 23:20:31.206 [info] Log level: Info
+2023-09-04 23:20:31.207 [info] Validating found git in: "git"
+2023-09-04 23:20:31.207 [info] Using git "2.39.2" from "git"
+2023-09-04 23:20:31.207 [info] > git rev-parse --show-toplevel [62ms]
+2023-09-04 23:20:31.207 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-09-04 23:20:31.208 [info] Open repository: /root/code
+2023-09-04 23:20:31.208 [info] > git config --get commit.template [11ms]
+2023-09-04 23:20:31.208 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2023-09-04 23:20:31.208 [info] > git status -z -uall [11ms]
+2023-09-04 23:20:31.208 [info] > git config --get commit.template [29ms]
+2023-09-04 23:20:31.208 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2023-09-04 23:20:31.209 [info] > git status -z -uall [13ms]
+2023-09-04 23:20:32.549 [info] > git check-ignore -v -z --stdin [59ms]
+2023-09-04 23:22:33.130 [info] > git ls-files --stage -- /root/code/main.py [22ms]
+2023-09-04 23:22:33.167 [info] > git show --textconv :main.py [80ms]
+2023-09-04 23:22:33.229 [info] > git cat-file -s fe3cb1a16c60a2ec3a2cb1e8d11b6e90c1cb8b7d [64ms]
+2023-09-04 23:23:05.133 [info] > git config --get commit.template [15ms]
+2023-09-04 23:23:05.142 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2023-09-04 23:23:05.167 [info] > git status -z -uall [17ms]
+2023-09-04 23:25:04.703 [info] > git config --get commit.template [258ms]
+2023-09-04 23:25:04.751 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [142ms]
+2023-09-04 23:25:04.886 [info] > git status -z -uall [33ms]
+2023-09-05 03:01:34.566 [info] > git config --get commit.template [17ms]
+2023-09-05 03:01:34.580 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2023-09-05 03:01:34.605 [info] > git status -z -uall [15ms]

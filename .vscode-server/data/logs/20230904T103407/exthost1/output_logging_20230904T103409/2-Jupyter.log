@@ -1,0 +1,20 @@
+Visual Studio Code (1.80.2, attached-container, desktop)
+Jupyter Extension Version: 2023.6.1101941928.
+Python Extension Version: 2023.14.0.
+Platform: linux (arm64).
+Workspace folder ~/code, Home = /root
+10:34:16.795 [info] User belongs to experiment group 'FastKernelPicker'
+10:34:16.795 [info] User belongs to experiment group 'NewRemoteUriStorage'
+10:34:16.795 [info] User belongs to experiment group 'PasswordManager'
+10:34:17.068 [info] Start refreshing Kernel Picker (1693823657068)
+10:34:17.077 [info] Using Pylance
+10:34:18.121 [warn] Failed to get activated env vars for /bin/python3 in 393ms
+10:34:18.129 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+10:34:18.145 [info] Process Execution: /bin/python3 -m pip list
+10:34:18.168 [info] Process Execution: /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+10:34:18.724 [info] End refreshing Kernel Picker (1693823657068)
+10:55:06.295 [info] Start refreshing Interpreter Kernel Picker
+10:55:06.297 [info] Start refreshing Kernel Picker (1693824906297)
+10:55:06.328 [warn] No interpreter for Pylance for Notebook URI "~/code/CarPricePrediction.ipynb"
+10:55:07.324 [info] End refreshing Kernel Picker (1693824906297)
+16:28:18.205 [warn] No interpreter for Pylance for Notebook URI "~/code/CarPricePrediction01.ipynb"

@@ -1,0 +1,20 @@
+2023-09-05 04:47:09.750 [info] Extension host with pid 39840 started
+2023-09-05 04:47:09.767 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/9d6dc3adf41fb42c8c10de7f20407a68/vscode.lock': Lock acquired.
+2023-09-05 04:47:09.795 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2023-09-05 04:47:09.830 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-05 04:47:09.866 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-05 04:47:09.867 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-05 04:47:10.414 [info] Eager extensions activated
+2023-09-05 04:47:10.415 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-05 04:47:10.416 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-05 04:47:10.767 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-09-05 04:47:10.769 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-09-05 04:47:10.769 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-09-05 04:47:10.770 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+2023-09-05 04:47:11.534 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-09-05 04:47:12.060 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-05 04:47:12.635 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-09-05 04:47:15.537 [error] Error: Module 'pip' not installed.
+	at Rd.execModule (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-arm64/out/extension.node.js:7:40655)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async cd.getPackageInformation (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-arm64/out/extension.node.js:7:31752)

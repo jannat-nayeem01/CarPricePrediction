@@ -1,0 +1,31 @@
+2023-09-04 23:20:28.738 [info] 
+
+
+
+
+2023-09-04 23:20:28.812 [info] Extension host agent started.
+2023-09-04 23:20:28.875 [debug] No uninstalled extensions found.
+2023-09-04 23:20:28.972 [info] [127.0.0.1][244cf82c][ManagementConnection] New connection established.
+2023-09-04 23:20:29.030 [info] Log level changed to info
+2023-09-04 23:20:29.306 [info] [127.0.0.1][80457262][ExtensionHostConnection] New connection established.
+2023-09-04 23:20:29.324 [info] [127.0.0.1][80457262][ExtensionHostConnection] <244> Launched Extension Host Process.
+2023-09-04 23:20:36.356 [info] [127.0.0.1][80457262][ExtensionHostConnection] <244> Starting WebSocket: RAW/api/kernels/ae5b18c8-0a02-4bcf-bbde-3276fc131c44
+
+2023-09-04 23:21:50.110 [error] Error: connect ECONNREFUSED 127.0.0.1:9999
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-04 23:21:50.134 [error] Error: connect ECONNREFUSED 127.0.0.1:9999
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-04 23:25:25.186 [error] Error: connect ECONNREFUSED 127.0.0.1:9999
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-04 23:25:25.188 [error] Error: connect ECONNREFUSED 127.0.0.1:9999
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-05 01:00:06.160 [info] [127.0.0.1][244cf82c][ManagementConnection] The client has reconnected.
+2023-09-05 01:00:06.346 [info] [127.0.0.1][80457262][ExtensionHostConnection] The client has reconnected.
+2023-09-05 01:00:08.226 [error] Error: connect ECONNREFUSED 127.0.0.1:9999
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-05 01:00:08.229 [error] Error: connect ECONNREFUSED 127.0.0.1:9999
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-05 01:52:08.549 [info] [127.0.0.1][80457262][ExtensionHostConnection] The client has reconnected.
+2023-09-05 01:52:08.744 [info] [127.0.0.1][244cf82c][ManagementConnection] The client has reconnected.
+2023-09-05 01:55:21.379 [info] [127.0.0.1][244cf82c][ManagementConnection] The client has reconnected.
+2023-09-05 01:55:21.584 [info] [127.0.0.1][80457262][ExtensionHostConnection] The client has reconnected.

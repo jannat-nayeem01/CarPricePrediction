@@ -1,0 +1,25 @@
+2023-09-05 03:34:27.936 [info] [Info  - 3:34:27 AM] (409) Pylance language server 2023.8.50 (pyright f98da719) starting
+2023-09-05 03:34:27.943 [info] [Info  - 3:34:27 AM] (409) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.50/dist
+2023-09-05 03:34:27.945 [info] [Info  - 3:34:27 AM] (409) Starting service instance "code"
+2023-09-05 03:34:28.128 [info] [Info  - 3:34:28 AM] (409) Setting pythonPath for service "code": "/bin/python3"
+2023-09-05 03:34:28.166 [info] [Warn  - 3:34:28 AM] (409) stubPath /root/code/typings is not a valid directory.
+2023-09-05 03:34:28.372 [info] [Info  - 3:34:28 AM] (409) Assuming Python version 3.11
+2023-09-05 03:34:29.151 [info] [Info  - 3:34:29 AM] (409) Found 1 source file
+2023-09-05 03:34:29.348 [info] [Info  - 3:34:29 AM] (409) Starting service instance "code"
+2023-09-05 03:34:29.409 [info] [Warn  - 3:34:29 AM] (409) stubPath /root/code/typings is not a valid directory.
+2023-09-05 03:34:29.972 [info] [Info  - 3:34:29 AM] (409) Found 1 source file
+2023-09-05 03:34:34.663 [info] [Info  - 3:34:34 AM] (409) [FG] Long operation: parsing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.50/dist/typeshed-fallback/stdlib/builtins.pyi (3154ms)
+2023-09-05 03:34:37.580 [info] [Info  - 3:34:37 AM] (409) [BG(1)] Long operation: parsing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.50/dist/typeshed-fallback/stdlib/builtins.pyi (3255ms)
+2023-09-05 03:34:37.603 [info] [Info  - 3:34:37 AM] (409) [BG(1)] Long operation: indexing: /root/code/main.py (6176ms)
+2023-09-05 03:34:37.752 [info] [Info  - 3:34:37 AM] (409) Starting service instance "code"
+2023-09-05 03:34:37.867 [info] [Info  - 3:34:37 AM] (409) Setting pythonPath for service "code": "/usr/local/bin/python"
+2023-09-05 03:34:37.874 [info] [Warn  - 3:34:37 AM] (409) stubPath /root/code/typings is not a valid directory.
+2023-09-05 03:34:38.171 [info] [Info  - 3:34:38 AM] (409) Assuming Python version 3.9
+2023-09-05 03:34:40.119 [info] [Info  - 3:34:40 AM] (409) Found 1 source file
+2023-09-05 03:34:40.549 [info] [Info  - 3:34:40 AM] (409) [BG(2)] Long operation: parsing: /root/code/CarPricePrediction01.ipynb:pylance-notebook-cell:W0sdnNjb2RlLXJlbW90ZQ==.py (2132ms)
+2023-09-05 03:34:44.642 [info] [Info  - 3:34:44 AM] (409) [BG(2)] Long operation: getSemanticTokens full at /root/code/CarPricePrediction01.ipynb:pylance-notebook-cell:W0sdnNjb2RlLXJlbW90ZQ==.py (8107ms)
+2023-09-05 03:34:46.193 [info] [Info  - 3:34:46 AM] (409) [IDX(3)] Long operation: scan packages /root/code (7250ms)
+2023-09-05 03:34:47.389 [info] [Info  - 3:34:47 AM] (409) [BG(4)] Long operation: analyzing: /root/code/CarPricePrediction01.ipynb:pylance-notebook-cell:Y136sdnNjb2RlLXJlbW90ZQ==.py (3840ms)
+2023-09-05 03:34:49.905 [info] [Info  - 3:34:49 AM] (409) [BG(4)] Long operation: checking: /root/code/CarPricePrediction01.ipynb:pylance-notebook-cell:Y135sdnNjb2RlLXJlbW90ZQ==.py (2591ms)
+2023-09-05 03:34:49.910 [info] [Info  - 3:34:49 AM] (409) [BG(4)] Long operation: analyzing: /root/code/CarPricePrediction01.ipynb:pylance-notebook-cell:Y135sdnNjb2RlLXJlbW90ZQ==.py (2597ms)
+2023-09-05 03:34:53.823 [info] [Info  - 3:34:53 AM] (409) [BG(4)] Long operation: analyzing: /root/code/CarPricePrediction01.ipynb:pylance-notebook-cell:pylancePrefixCell.py (10404ms)

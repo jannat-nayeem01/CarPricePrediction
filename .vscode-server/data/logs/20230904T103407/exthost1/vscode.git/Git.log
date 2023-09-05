@@ -1,0 +1,90 @@
+2023-09-04 10:34:09.406 [info] Log level: Info
+2023-09-04 10:34:09.406 [info] Validating found git in: "git"
+2023-09-04 10:34:09.406 [info] Using git "2.39.2" from "git"
+2023-09-04 10:34:09.406 [info] > git rev-parse --show-toplevel [26ms]
+2023-09-04 10:34:09.407 [info] fatal: not a git repository (or any parent up to mount point /root)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-04 10:34:09.477 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-04 10:34:09.477 [info] fatal: not a git repository (or any parent up to mount point /root)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-04 10:34:16.702 [info] > git rev-parse --show-toplevel [328ms]
+2023-09-04 10:34:16.702 [info] fatal: not a git repository (or any parent up to mount point /root)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-04 10:34:25.553 [info] > git rev-parse --show-toplevel [5ms]
+2023-09-04 10:34:25.554 [info] fatal: not a git repository (or any parent up to mount point /root)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-04 10:54:23.276 [info] > git rev-parse --show-toplevel [15ms]
+2023-09-04 10:54:23.277 [info] fatal: not a git repository (or any parent up to mount point /root)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-04 10:54:35.155 [info] > git rev-parse --show-toplevel [5ms]
+2023-09-04 10:54:35.156 [info] fatal: not a git repository (or any parent up to mount point /root)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-04 10:55:15.014 [info] > git rev-parse --show-toplevel [45ms]
+2023-09-04 10:55:15.018 [info] fatal: not a git repository (or any parent up to mount point /root)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-04 15:01:19.979 [info] > git rev-parse --show-toplevel [6ms]
+2023-09-04 15:01:19.995 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-09-04 15:01:20.023 [info] Open repository: /root/code
+2023-09-04 15:01:20.033 [info] No remotes found in the git config file.
+2023-09-04 15:01:20.042 [info] > git config --get commit.template [9ms]
+2023-09-04 15:01:20.049 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-09-04 15:01:20.071 [info] > git status -z -uall [13ms]
+2023-09-04 15:01:20.086 [info] No remotes found in the git config file.
+2023-09-04 15:01:20.098 [info] > git config --get commit.template [12ms]
+2023-09-04 15:01:20.101 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-09-04 15:01:20.138 [info] > git status -z -uall [24ms]
+2023-09-04 15:01:20.534 [info] > git show --textconv :main.py [15ms]
+2023-09-04 15:01:20.539 [info] > git ls-files --stage -- /root/code/main.py [6ms]
+2023-09-04 15:01:20.580 [info] > git check-ignore -v -z --stdin [6ms]
+2023-09-04 15:01:37.345 [info] No remotes found in the git config file.
+2023-09-04 15:01:37.357 [info] > git config --get commit.template [15ms]
+2023-09-04 15:01:37.362 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2023-09-04 15:01:37.381 [info] > git status -z -uall [10ms]
+2023-09-04 15:01:37.467 [info] > git ls-files --stage -- /root/code/main.py [5ms]
+2023-09-04 15:01:37.482 [info] > git cat-file -s fe3cb1a16c60a2ec3a2cb1e8d11b6e90c1cb8b7d [6ms]
+2023-09-04 15:01:37.502 [info] > git show --textconv :main.py [7ms]
+2023-09-04 15:02:01.497 [info] No remotes found in the git config file.
+2023-09-04 15:02:01.510 [info] > git config --get commit.template [18ms]
+2023-09-04 15:02:01.514 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-09-04 15:02:01.530 [info] > git status -z -uall [8ms]
+2023-09-04 15:02:01.566 [info] > git ls-files --stage -- /root/code/main.py [5ms]
+2023-09-04 15:02:01.576 [info] > git cat-file -s fe3cb1a16c60a2ec3a2cb1e8d11b6e90c1cb8b7d [5ms]
+2023-09-04 15:02:01.591 [info] > git show --textconv :main.py [5ms]
+2023-09-04 15:03:39.594 [info] No remotes found in the git config file.
+2023-09-04 15:03:39.608 [info] > git config --get commit.template [14ms]
+2023-09-04 15:03:39.617 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2023-09-04 15:03:39.642 [info] > git status -z -uall [16ms]
+2023-09-04 15:03:39.673 [info] > git ls-files --stage -- /root/code/main.py [3ms]
+2023-09-04 15:03:39.684 [info] > git cat-file -s fe3cb1a16c60a2ec3a2cb1e8d11b6e90c1cb8b7d [5ms]
+2023-09-04 15:03:39.703 [info] > git show --textconv :main.py [6ms]
+2023-09-04 15:03:53.803 [info] No remotes found in the git config file.
+2023-09-04 15:03:53.817 [info] > git config --get commit.template [17ms]
+2023-09-04 15:03:53.826 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2023-09-04 15:03:53.848 [info] > git status -z -uall [15ms]
+2023-09-04 15:03:53.883 [info] > git ls-files --stage -- /root/code/main.py [4ms]
+2023-09-04 15:03:53.893 [info] > git cat-file -s fe3cb1a16c60a2ec3a2cb1e8d11b6e90c1cb8b7d [4ms]
+2023-09-04 15:03:53.908 [info] > git show --textconv :main.py [6ms]
+2023-09-04 15:04:05.227 [info] > git config --get commit.template [14ms]
+2023-09-04 15:04:05.231 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2023-09-04 15:04:05.249 [info] > git status -z -uall [11ms]
+2023-09-04 15:04:05.282 [info] > git ls-files --stage -- /root/code/main.py [5ms]
+2023-09-04 15:04:05.293 [info] > git cat-file -s fe3cb1a16c60a2ec3a2cb1e8d11b6e90c1cb8b7d [5ms]
+2023-09-04 15:04:05.310 [info] > git show --textconv :main.py [6ms]
+2023-09-04 15:04:56.211 [info] > git config --get commit.template [14ms]
+2023-09-04 15:04:56.221 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2023-09-04 15:04:56.241 [info] > git status -z -uall [11ms]
+2023-09-04 15:04:56.273 [info] > git ls-files --stage -- /root/code/main.py [3ms]
+2023-09-04 15:04:56.283 [info] > git cat-file -s fe3cb1a16c60a2ec3a2cb1e8d11b6e90c1cb8b7d [4ms]
+2023-09-04 15:04:56.302 [info] > git show --textconv :main.py [9ms]
+2023-09-04 16:28:13.063 [info] > git config --get commit.template [16ms]
+2023-09-04 16:28:13.076 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2023-09-04 16:28:13.098 [info] > git status -z -uall [13ms]
+2023-09-04 23:15:02.923 [info] > git config --get commit.template [13ms]
+2023-09-04 23:15:02.932 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2023-09-04 23:15:02.952 [info] > git status -z -uall [12ms]
+2023-09-04 23:17:47.191 [info] > git config --get commit.template [16ms]
+2023-09-04 23:17:47.205 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2023-09-04 23:17:47.233 [info] > git status -z -uall [14ms]
+2023-09-04 23:17:52.272 [info] > git config --get commit.template [12ms]
+2023-09-04 23:17:52.277 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2023-09-04 23:17:52.293 [info] > git status -z -uall [9ms]

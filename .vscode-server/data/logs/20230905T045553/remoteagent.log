@@ -1,0 +1,13 @@
+2023-09-05 04:55:53.442 [info] 
+
+
+
+
+2023-09-05 04:55:53.488 [info] Extension host agent started.
+2023-09-05 04:55:53.561 [debug] No uninstalled extensions found.
+2023-09-05 04:55:53.629 [info] [127.0.0.1][dc2d9b9d][ManagementConnection] New connection established.
+2023-09-05 04:55:53.701 [info] Log level changed to info
+2023-09-05 04:55:54.031 [info] [127.0.0.1][d2ac57cf][ExtensionHostConnection] New connection established.
+2023-09-05 04:55:54.060 [info] [127.0.0.1][d2ac57cf][ExtensionHostConnection] <240> Launched Extension Host Process.
+2023-09-05 04:56:25.170 [info] [127.0.0.1][d2ac57cf][ExtensionHostConnection] <240> Starting WebSocket: RAW/api/kernels/36532c33-a8fd-490f-a896-8fca6626cf68
+

@@ -1,0 +1,21 @@
+2023-09-05 03:19:54.225 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-09-05 03:19:54.226 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-09-05 03:19:54.227 [info] Experiment 'pythonSurveyNotification' is active
+2023-09-05 03:19:54.229 [info] Experiment 'pythonTestAdaptercf' is active
+2023-09-05 03:19:54.231 [info] Test server listening.
+2023-09-05 03:19:54.232 [info] > conda info --json
+2023-09-05 03:19:54.252 [info] Found: /bin/python3 --> /bin/python3.11
+2023-09-05 03:19:54.265 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-09-05 03:19:54.631 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-09-05 03:19:54.635 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-09-05 03:19:54.668 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.9
+2023-09-05 03:19:54.669 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.9
+2023-09-05 03:19:54.669 [info] Found: /usr/local/bin/python3.9 --> /usr/local/bin/python3.9
+2023-09-05 03:19:54.944 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-05 03:19:55.164 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-05 03:19:55.545 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-05 03:19:55.545 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-05 03:19:55.546 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-05 03:19:55.698 [info] > /usr/local/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-05 03:19:56.010 [info] Python interpreter path: /bin/python3
+2023-09-05 03:19:59.918 [info] Starting Pylance language server.

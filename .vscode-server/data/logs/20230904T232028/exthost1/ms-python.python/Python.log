@@ -1,0 +1,25 @@
+2023-09-04 23:20:33.411 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-09-04 23:20:33.412 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-09-04 23:20:33.412 [info] Experiment 'pythonSurveyNotification' is active
+2023-09-04 23:20:33.412 [info] Experiment 'pythonTestAdaptercf' is active
+2023-09-04 23:20:33.413 [info] Test server listening.
+2023-09-04 23:20:33.413 [info] > conda info --json
+2023-09-04 23:20:33.414 [info] Found: /bin/python3 --> /bin/python3.11
+2023-09-04 23:20:33.417 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-09-04 23:20:33.552 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-09-04 23:20:33.553 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-09-04 23:20:33.579 [info] > /usr/local/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-04 23:20:33.580 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.9
+2023-09-04 23:20:33.582 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.9
+2023-09-04 23:20:33.582 [info] Found: /usr/local/bin/python3.9 --> /usr/local/bin/python3.9
+2023-09-04 23:20:33.616 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-04 23:20:33.718 [info] Python interpreter path: /usr/local/bin/python3
+2023-09-04 23:20:33.761 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-04 23:20:33.826 [info] > /usr/local/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-04 23:20:36.048 [info] Starting Pylance language server.
+2023-09-04 23:22:32.925 [info] Python interpreter path: /bin/python3
+2023-09-04 23:23:04.362 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-04 23:25:02.199 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-04 23:25:02.870 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-04 23:25:03.634 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-04 23:42:44.394 [info] Discover tests for workspace name: code - uri: /root/code/anyname.py

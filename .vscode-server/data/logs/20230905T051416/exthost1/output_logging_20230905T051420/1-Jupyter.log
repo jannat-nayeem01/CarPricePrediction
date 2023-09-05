@@ -1,0 +1,33 @@
+Visual Studio Code (1.80.2, attached-container, desktop)
+Jupyter Extension Version: 2023.6.1101941928.
+Python Extension Version: 2023.14.0.
+Platform: linux (arm64).
+Workspace folder ~/code, Home = /root
+05:14:26.119 [info] User belongs to experiment group 'FastKernelPicker'
+05:14:26.120 [info] User belongs to experiment group 'NewRemoteUriStorage'
+05:14:26.120 [info] User belongs to experiment group 'PasswordManager'
+05:14:27.244 [info] Start refreshing Kernel Picker (1693890867244)
+05:14:27.251 [info] Using Pylance
+05:14:28.157 [info] Start refreshing Interpreter Kernel Picker
+05:14:30.437 [warn] Failed to get activated env vars for /bin/python3 in 271ms
+05:14:30.463 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+05:14:30.514 [info] Process Execution: /bin/python3 -m pip list
+05:14:30.583 [info] Process Execution: /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+05:14:32.430 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.9.18) for '~/code/CarPricePrediction01.ipynb' (disableUI=true)
+05:14:33.091 [warn] Failed to get activated env vars for /usr/local/bin/python in 671ms
+05:14:33.339 [info] Process Execution: /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+05:14:33.523 [warn] Failed to get activated env vars for /usr/local/bin/python in 1034ms
+05:14:33.802 [info] Process Execution: /usr/local/bin/python -m pip list
+05:14:33.836 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+05:14:33.912 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"ebc57f75-bb9d-42ce-965c-15d2ae48957f" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-238kq51EalfI0QE.json
+    > cwd: ~/code
+05:14:35.260 [info] End refreshing Kernel Picker (1693890867244)
+05:14:35.783 [info] ipykernel version & path 6.25.1, /usr/local/lib/python3.9/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+05:14:40.925 [info] Started Kernel Python 3.9.18 (pid: 464)
+05:14:40.926 [info] Started new session 0fcc03cf-c511-4f9a-a164-817c7d52dee7
+05:14:41.098 [info] Process Execution: /usr/local/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-arm64/pythonFiles/printJupyterDataDir.py
+05:16:08.596 [info] Disposing HostJupyterExecution
+05:16:08.598 [info] Shutting down notebooks for 93c992da-de7c-4886-8964-ee58bd0d0e7f
+05:16:08.601 [info] Dispose Kernel '~/code/CarPricePrediction01.ipynb' associated with '~/code/CarPricePrediction01.ipynb'
+05:16:08.610 [info] Dispose Kernel process 464.
+05:16:08.636 [info] Disposing HostJupyterExecution

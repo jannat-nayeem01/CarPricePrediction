@@ -1,0 +1,16 @@
+2023-09-04 10:34:19.201 [info] [Info  - 10:34:19 AM] (405) Pylance language server 2023.8.50 (pyright f98da719) starting
+2023-09-04 10:34:19.203 [info] [Info  - 10:34:19 AM] (405) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.50/dist
+2023-09-04 10:34:19.203 [info] [Info  - 10:34:19 AM] (405) Starting service instance "code"
+2023-09-04 10:34:19.247 [info] [Info  - 10:34:19 AM] (405) Setting pythonPath for service "code": "/bin/python3"
+2023-09-04 10:34:19.250 [info] [Warn  - 10:34:19 AM] (405) stubPath /root/code/typings is not a valid directory.
+2023-09-04 10:34:19.286 [info] [Info  - 10:34:19 AM] (405) Assuming Python version 3.11
+2023-09-04 10:34:19.471 [info] [Info  - 10:34:19 AM] (405) Found 3 source files
+2023-09-04 10:55:04.484 [info] [Info  - 10:55:04 AM] (405) Found 2 source files
+2023-09-04 10:55:06.402 [info] [Info  - 10:55:06 AM] (405) Starting service instance "code"
+2023-09-04 10:55:06.469 [info] [Warn  - 10:55:06 AM] (405) stubPath /root/code/typings is not a valid directory.
+2023-09-04 10:55:06.689 [info] [Info  - 10:55:06 AM] (405) Found 2 source files
+2023-09-04 16:28:18.278 [info] [Info  - 4:28:18 PM] (405) Starting service instance "code"
+2023-09-04 16:28:18.539 [info] [Warn  - 4:28:18 PM] (405) stubPath /root/code/typings is not a valid directory.
+2023-09-04 16:28:19.075 [info] [Info  - 4:28:19 PM] (405) Found 2 source files
+2023-09-04 16:28:22.748 [info] [Info  - 4:28:22 PM] (405) [BG(5)] Long operation: checking: /root/code/main.py (2243ms)
+2023-09-04 16:28:22.748 [info] [Info  - 4:28:22 PM] (405) [BG(5)] Long operation: analyzing: /root/code/main.py (2671ms)

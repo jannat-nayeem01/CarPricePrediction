@@ -1,0 +1,23 @@
+2023-09-05 04:56:15.847 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-09-05 04:56:15.847 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-09-05 04:56:15.848 [info] Experiment 'pythonSurveyNotification' is active
+2023-09-05 04:56:15.848 [info] Experiment 'pythonTestAdaptercf' is active
+2023-09-05 04:56:15.848 [info] Test server listening.
+2023-09-05 04:56:15.848 [info] > conda info --json
+2023-09-05 04:56:15.849 [info] Found: /bin/python3 --> /bin/python3.11
+2023-09-05 04:56:15.850 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-09-05 04:56:15.870 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-09-05 04:56:15.871 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-09-05 04:56:15.908 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.9
+2023-09-05 04:56:15.910 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.9
+2023-09-05 04:56:15.913 [info] Found: /usr/local/bin/python3.9 --> /usr/local/bin/python3.9
+2023-09-05 04:56:15.936 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-05 04:56:15.937 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-05 04:56:15.937 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-05 04:56:15.968 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-05 04:56:16.013 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-05 04:56:16.279 [info] > /usr/local/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-05 04:56:16.463 [info] Python interpreter path: /bin/python3
+2023-09-05 04:56:18.317 [info] Starting Pylance language server.
+2023-09-05 05:04:35.578 [info] Discover tests for workspace name: code - uri: /root/code
+2023-09-05 05:06:42.967 [info] Send text to terminal: /bin/python3 /root/code/main.py

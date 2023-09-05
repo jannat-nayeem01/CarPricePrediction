@@ -1,0 +1,45 @@
+2023-09-05 05:16:27.787 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-09-05 05:16:27.788 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-09-05 05:16:27.788 [info] Experiment 'pythonSurveyNotification' is active
+2023-09-05 05:16:27.788 [info] Experiment 'pythonTestAdaptercf' is active
+2023-09-05 05:16:27.788 [info] Test server listening.
+2023-09-05 05:16:27.788 [info] > conda info --json
+2023-09-05 05:16:27.789 [info] Found: /bin/python3 --> /bin/python3.11
+2023-09-05 05:16:27.791 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-09-05 05:16:27.890 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-09-05 05:16:27.892 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-09-05 05:16:28.004 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-05 05:16:28.053 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.9
+2023-09-05 05:16:28.061 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.9
+2023-09-05 05:16:28.061 [info] Found: /usr/local/bin/python3.9 --> /usr/local/bin/python3.9
+2023-09-05 05:16:28.168 [info] Python interpreter path: /bin/python3
+2023-09-05 05:16:28.271 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-05 05:16:28.324 [info] > /usr/local/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-05 05:16:30.612 [info] Starting Pylance language server.
+2023-09-05 07:13:07.721 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:13:08.304 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:13:08.926 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:13:41.143 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:17:54.385 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:17:54.918 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:17:55.588 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:17:56.063 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:17:56.524 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:18:37.296 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:19:56.920 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:19:57.563 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:24:35.166 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:24:35.586 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:27:10.959 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:27:37.967 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:28:40.032 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:33:55.856 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:33:56.327 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:36:36.189 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:39:41.994 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:40:08.290 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:40:43.498 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 07:41:39.345 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 10:27:50.208 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 10:27:50.700 [info] Discover tests for workspace name: code - uri: /root/code/main.py
+2023-09-05 10:34:37.827 [info] Discover tests for workspace name: code - uri: /root/code/main.py

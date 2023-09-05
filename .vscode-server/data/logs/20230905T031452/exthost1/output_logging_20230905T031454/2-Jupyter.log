@@ -1,0 +1,120 @@
+Visual Studio Code (1.80.2, attached-container, desktop)
+Jupyter Extension Version: 2023.6.1101941928.
+Python Extension Version: 2023.14.0.
+Platform: linux (arm64).
+Workspace folder ~/code, Home = /root
+03:14:58.804 [info] User belongs to experiment group 'FastKernelPicker'
+03:14:58.805 [info] User belongs to experiment group 'NewRemoteUriStorage'
+03:14:58.805 [info] User belongs to experiment group 'PasswordManager'
+03:14:59.144 [info] Start refreshing Kernel Picker (1693883699144)
+03:14:59.153 [info] Using Pylance
+03:15:00.284 [warn] Failed to get activated env vars for /bin/python3 in 400ms
+03:15:00.293 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+03:15:00.308 [info] Process Execution: /bin/python3 -m pip list
+03:15:00.325 [info] Process Execution: /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+03:15:00.877 [info] End refreshing Kernel Picker (1693883699144)
+03:15:01.524 [info] Start refreshing Interpreter Kernel Picker
+03:15:01.526 [info] Start refreshing Kernel Picker (1693883701526)
+03:15:01.874 [warn] No interpreter for Pylance for Notebook URI "~/code/CarPricePrediction01.ipynb"
+03:15:02.571 [info] End refreshing Kernel Picker (1693883701526)
+03:15:15.388 [info] Handle Execution of Cells 0 for ~/code/CarPricePrediction01.ipynb
+03:15:15.400 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.9.18) for '~/code/CarPricePrediction01.ipynb' (disableUI=false)
+03:15:15.500 [warn] Failed to get activated env vars for /usr/local/bin/python in 124ms
+03:15:15.512 [info] Process Execution: /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+03:15:15.538 [warn] Failed to get activated env vars for /usr/local/bin/python in 132ms
+03:15:15.564 [info] Process Execution: /usr/local/bin/python -m pip list
+03:15:15.582 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+03:15:15.599 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"0909ba39-f8a0-42ce-a495-0c04429f7d92" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-243jNyYxoUUyxNO.json
+    > cwd: ~/code
+03:15:16.062 [info] ipykernel version & path 6.25.1, /usr/local/lib/python3.9/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+03:15:16.779 [warn] StdErr from Kernel Process /usr/local/lib/python3.9/site-packages/traitlets/traitlets.py:2548: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+03:15:16.782 [warn] StdErr from Kernel Process /usr/local/lib/python3.9/site-packages/traitlets/traitlets.py:2499: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '0909ba39-f8a0-42ce-a495-0c04429f7d92' instead of 'b"0909ba39-f8a0-42ce-a495-0c04429f7d92"'.
+  warn(
+03:15:16.964 [info] Started Kernel Python 3.9.18 (pid: 555)
+03:15:16.965 [info] Started new session 88917bce-4561-48ca-975c-4076e61de3f4
+03:15:17.034 [info] Process Execution: /usr/local/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-arm64/pythonFiles/printJupyterDataDir.py
+03:15:17.052 [info] Kernel acknowledged execution of cell 0 @ 1693883717041
+03:15:18.475 [info] End cell 0 execution @ 1693883718469, started @ 1693883717041, elapsed time = 1.428s
+03:15:24.975 [info] Handle Execution of Cells 1 for ~/code/CarPricePrediction01.ipynb
+03:15:25.016 [info] Kernel acknowledged execution of cell 1 @ 1693883725002
+03:15:25.096 [info] End cell 1 execution @ 1693883725093, started @ 1693883725002, elapsed time = 0.091s
+03:15:29.517 [info] Handle Execution of Cells 2 for ~/code/CarPricePrediction01.ipynb
+03:15:29.572 [info] Kernel acknowledged execution of cell 2 @ 1693883729551
+03:15:29.581 [info] End cell 2 execution @ 1693883729577, started @ 1693883729551, elapsed time = 0.026s
+03:15:32.435 [info] Handle Execution of Cells 3 for ~/code/CarPricePrediction01.ipynb
+03:15:32.472 [info] Kernel acknowledged execution of cell 3 @ 1693883732459
+03:15:32.523 [info] End cell 3 execution @ 1693883732519, started @ 1693883732459, elapsed time = 0.06s
+03:15:35.280 [info] Handle Execution of Cells 4 for ~/code/CarPricePrediction01.ipynb
+03:15:35.310 [info] Kernel acknowledged execution of cell 4 @ 1693883735300
+03:15:35.335 [info] End cell 4 execution @ 1693883735323, started @ 1693883735300, elapsed time = 0.023s
+03:15:37.715 [info] Handle Execution of Cells 5 for ~/code/CarPricePrediction01.ipynb
+03:15:37.739 [info] Kernel acknowledged execution of cell 5 @ 1693883737730
+03:15:37.746 [info] End cell 5 execution @ 1693883737743, started @ 1693883737730, elapsed time = 0.013s
+03:15:40.350 [info] Handle Execution of Cells 6 for ~/code/CarPricePrediction01.ipynb
+03:15:40.421 [info] Kernel acknowledged execution of cell 6 @ 1693883740381
+03:15:40.442 [info] End cell 6 execution @ 1693883740439, started @ 1693883740381, elapsed time = 0.058s
+03:15:44.034 [info] Handle Execution of Cells 7 for ~/code/CarPricePrediction01.ipynb
+03:15:44.106 [info] Kernel acknowledged execution of cell 7 @ 1693883744071
+03:15:44.304 [info] End cell 7 execution @ 1693883744301, started @ 1693883744071, elapsed time = 0.23s
+03:15:48.400 [info] Handle Execution of Cells 8 for ~/code/CarPricePrediction01.ipynb
+03:15:48.446 [info] Kernel acknowledged execution of cell 8 @ 1693883748429
+03:15:48.490 [info] End cell 8 execution @ 1693883748483, started @ 1693883748429, elapsed time = 0.054s
+03:15:51.965 [info] Handle Execution of Cells 9 for ~/code/CarPricePrediction01.ipynb
+03:15:52.025 [info] Kernel acknowledged execution of cell 9 @ 1693883752014
+03:15:52.065 [info] End cell 9 execution @ 1693883752063, started @ 1693883752014, elapsed time = 0.049s
+03:15:55.942 [info] Handle Execution of Cells 10 for ~/code/CarPricePrediction01.ipynb
+03:15:56.002 [info] Kernel acknowledged execution of cell 10 @ 1693883755969
+03:15:56.051 [info] End cell 10 execution @ 1693883756050, started @ 1693883755969, elapsed time = 0.081s
+03:16:01.903 [info] Handle Execution of Cells 11 for ~/code/CarPricePrediction01.ipynb
+03:16:01.945 [info] Kernel acknowledged execution of cell 11 @ 1693883761928
+03:16:01.983 [info] End cell 11 execution @ 1693883761962, started @ 1693883761928, elapsed time = 0.034s
+03:16:04.950 [info] Handle Execution of Cells 13 for ~/code/CarPricePrediction01.ipynb
+03:16:05.041 [info] Kernel acknowledged execution of cell 13 @ 1693883764996
+03:16:05.043 [info] End cell 13 execution @ 1693883765041, started @ 1693883764996, elapsed time = 0.045s
+03:16:12.118 [info] Handle Execution of Cells 14 for ~/code/CarPricePrediction01.ipynb
+03:16:12.167 [info] Kernel acknowledged execution of cell 14 @ 1693883772153
+03:16:12.173 [info] End cell 14 execution @ 1693883772171, started @ 1693883772153, elapsed time = 0.018s
+03:16:14.215 [info] Handle Execution of Cells 15 for ~/code/CarPricePrediction01.ipynb
+03:16:14.226 [info] Kernel acknowledged execution of cell 15 @ 1693883774223
+03:16:14.259 [info] End cell 15 execution @ 1693883774255, started @ 1693883774223, elapsed time = 0.032s
+03:16:17.217 [info] Handle Execution of Cells 16 for ~/code/CarPricePrediction01.ipynb
+03:16:17.296 [info] Kernel acknowledged execution of cell 16 @ 1693883777245
+03:16:17.315 [info] End cell 16 execution @ 1693883777307, started @ 1693883777245, elapsed time = 0.062s
+03:16:20.072 [info] Handle Execution of Cells 17 for ~/code/CarPricePrediction01.ipynb
+03:16:20.139 [info] Kernel acknowledged execution of cell 17 @ 1693883780111
+03:16:20.152 [info] End cell 17 execution @ 1693883780147, started @ 1693883780111, elapsed time = 0.036s
+03:16:23.405 [info] Handle Execution of Cells 19 for ~/code/CarPricePrediction01.ipynb
+03:16:23.446 [info] Kernel acknowledged execution of cell 19 @ 1693883783434
+03:16:23.988 [info] End cell 19 execution @ 1693883783984, started @ 1693883783434, elapsed time = 0.55s
+03:16:27.635 [info] Handle Execution of Cells 20 for ~/code/CarPricePrediction01.ipynb
+03:16:27.686 [info] Kernel acknowledged execution of cell 20 @ 1693883787666
+03:16:28.045 [info] End cell 20 execution @ 1693883788043, started @ 1693883787666, elapsed time = 0.377s
+03:16:31.724 [info] Handle Execution of Cells 21 for ~/code/CarPricePrediction01.ipynb
+03:16:31.785 [info] Kernel acknowledged execution of cell 21 @ 1693883791757
+03:16:32.313 [info] End cell 21 execution @ 1693883792311, started @ 1693883791757, elapsed time = 0.554s
+03:16:35.852 [info] Handle Execution of Cells 22 for ~/code/CarPricePrediction01.ipynb
+03:16:35.942 [info] Kernel acknowledged execution of cell 22 @ 1693883795900
+03:16:36.113 [info] End cell 22 execution @ 1693883796109, started @ 1693883795900, elapsed time = 0.209s
+03:16:40.101 [info] Handle Execution of Cells 23 for ~/code/CarPricePrediction01.ipynb
+03:16:40.169 [info] Kernel acknowledged execution of cell 23 @ 1693883800132
+03:16:40.578 [info] End cell 23 execution @ 1693883800572, started @ 1693883800132, elapsed time = 0.44s
+03:16:43.218 [info] Handle Execution of Cells 24 for ~/code/CarPricePrediction01.ipynb
+03:16:43.264 [info] Kernel acknowledged execution of cell 24 @ 1693883803252
+03:16:43.920 [info] End cell 24 execution @ 1693883803917, started @ 1693883803252, elapsed time = 0.665s
+03:16:48.226 [info] Handle Execution of Cells 26 for ~/code/CarPricePrediction01.ipynb
+03:16:48.257 [info] Kernel acknowledged execution of cell 26 @ 1693883808243
+03:16:48.466 [info] End cell 26 execution @ 1693883808464, started @ 1693883808243, elapsed time = 0.221s
+03:16:51.985 [info] Handle Execution of Cells 27 for ~/code/CarPricePrediction01.ipynb
+03:16:52.045 [info] Kernel acknowledged execution of cell 27 @ 1693883812012
+03:16:52.606 [info] End cell 27 execution @ 1693883812602, started @ 1693883812012, elapsed time = 0.59s
+03:16:55.432 [info] Handle Execution of Cells 29 for ~/code/CarPricePrediction01.ipynb
+03:16:55.471 [info] Kernel acknowledged execution of cell 29 @ 1693883815458
+03:16:55.617 [info] End cell 29 execution @ 1693883815614, started @ 1693883815458, elapsed time = 0.156s
+03:16:59.750 [info] Handle Execution of Cells 30 for ~/code/CarPricePrediction01.ipynb
+03:16:59.808 [info] Kernel acknowledged execution of cell 30 @ 1693883819784
+03:17:00.187 [info] End cell 30 execution @ 1693883820182, started @ 1693883819784, elapsed time = 0.398s
+03:17:03.390 [info] Handle Execution of Cells 31 for ~/code/CarPricePrediction01.ipynb
+03:17:03.416 [info] Kernel acknowledged execution of cell 31 @ 1693883823406
+03:17:03.717 [info] End cell 31 execution @ 1693883823713, started @ 1693883823406, elapsed time = 0.307s
+03:17:03.718 [warn] Cancel all remaining cells due to cancellation or failure in execution
