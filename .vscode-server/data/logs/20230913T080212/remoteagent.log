@@ -1,0 +1,22 @@
+2023-09-13 08:02:12.943 [info] 
+
+
+
+
+2023-09-13 08:02:13.050 [info] Extension host agent started.
+2023-09-13 08:02:13.184 [debug] No uninstalled extensions found.
+2023-09-13 08:02:13.292 [info] [127.0.0.1][dbc2ecec][ManagementConnection] New connection established.
+2023-09-13 08:02:13.329 [info] Log level changed to info
+2023-09-13 08:02:14.059 [info] [127.0.0.1][50029998][ExtensionHostConnection] New connection established.
+2023-09-13 08:02:14.102 [info] [127.0.0.1][50029998][ExtensionHostConnection] <255> Launched Extension Host Process.
+2023-09-13 08:02:19.347 [info] Getting Manifest... ms-python.vscode-pylance
+2023-09-13 08:02:19.728 [info] Installing extension: ms-python.vscode-pylance
+2023-09-13 08:02:22.697 [info] Getting Manifest... ms-python.python
+2023-09-13 08:02:30.714 [info] [127.0.0.1][50029998][ExtensionHostConnection] <255> Starting WebSocket: RAW/api/kernels/f6c22086-199d-4843-965a-3328147145b2
+
+2023-09-13 08:02:36.939 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-09-13 08:02:48.128 [info] Extracted extension to /root/.vscode-server/extensions/.a0ccd44e-8392-4ed2-a345-8c99f07b74db: ms-python.vscode-pylance
+2023-09-13 08:02:48.132 [info] Renamed to /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.10
+2023-09-13 08:02:48.139 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-09-13 08:02:48.145 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-09-13 08:02:48.154 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.8.50

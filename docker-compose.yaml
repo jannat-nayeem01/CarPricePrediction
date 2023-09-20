@@ -1,4 +1,4 @@
-version: '3.9'
+version: '3.11.4'
 services:
   bootcamp:
     image: jannatun/dash:v0.1
@@ -7,8 +7,19 @@ services:
       context: .
       dockerfile: dash.Dockerfile
     volumes:
-      - ./.vscode-server:/root/.vscode-server
       - ./code:/root/code
-
+      - ./data:/root/data
+      - ./model:/root/model
+      - ./scale:/root/scale
+      - ./.vscode-server:/root/.vscode-server
+mlflow:
+    image: mlflow:latest
+    platform: linux/x86_64
+    build: 
+      context: .
+      dockerfile: mlflow.Dockerfile
+    volumes:
+      - ./_mlflow:/mlflow
     ports:
-    - 9999:8050
+      - 5000:5000 
+       

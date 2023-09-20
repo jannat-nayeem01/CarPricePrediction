@@ -47,3 +47,26 @@
 2023-09-05 10:33:04.192 [info] [127.0.0.1][3a7e9493][ManagementConnection] The client has reconnected.
 2023-09-05 10:44:21.208 [info] [127.0.0.1][3a7e9493][ManagementConnection] The client has reconnected.
 2023-09-05 10:44:21.372 [info] [127.0.0.1][63ac444f][ExtensionHostConnection] The client has reconnected.
+2023-09-05 11:24:33.689 [info] [127.0.0.1][63ac444f][ExtensionHostConnection] The client has reconnected.
+2023-09-05 11:24:33.900 [info] [127.0.0.1][3a7e9493][ManagementConnection] The client has reconnected.
+2023-09-05 11:36:09.602 [info] [127.0.0.1][3a7e9493][ManagementConnection] The client has reconnected.
+2023-09-05 11:36:10.045 [info] [127.0.0.1][63ac444f][ExtensionHostConnection] The client has reconnected.
+2023-09-05 11:43:18.743 [info] [127.0.0.1][3a7e9493][ManagementConnection] The client has reconnected.
+2023-09-05 11:43:18.923 [info] [127.0.0.1][63ac444f][ExtensionHostConnection] The client has reconnected.
+2023-09-05 11:45:48.980 [info] [127.0.0.1][63ac444f][ExtensionHostConnection] The client has reconnected.
+2023-09-05 11:45:49.177 [info] [127.0.0.1][3a7e9493][ManagementConnection] The client has reconnected.
+2023-09-05 11:54:10.506 [info] [127.0.0.1][3a7e9493][ManagementConnection] The client has reconnected.
+2023-09-05 11:54:10.701 [info] [127.0.0.1][63ac444f][ExtensionHostConnection] The client has reconnected.
+2023-09-05 11:54:20.961 [info] [127.0.0.1][3a7e9493][ManagementConnection] The client has reconnected.
+2023-09-05 11:54:21.139 [info] [127.0.0.1][63ac444f][ExtensionHostConnection] The client has reconnected.
+2023-09-05 12:14:54.445 [info] [127.0.0.1][63ac444f][ExtensionHostConnection] The client has reconnected.
+2023-09-05 12:14:54.836 [info] [127.0.0.1][3a7e9493][ManagementConnection] The client has reconnected.
+2023-09-05 23:49:38.068 [info] [127.0.0.1][3a7e9493][ManagementConnection] The client has reconnected.
+2023-09-05 23:49:38.295 [info] [127.0.0.1][63ac444f][ExtensionHostConnection] The client has reconnected.
+2023-09-06 00:13:29.500 [info] [127.0.0.1][63ac444f][ExtensionHostConnection] The client has reconnected.
+2023-09-06 00:13:29.712 [info] [127.0.0.1][3a7e9493][ManagementConnection] The client has reconnected.
+2023-09-06 00:25:44.639 [info] [127.0.0.1][3a7e9493][ManagementConnection] The client has reconnected.
+2023-09-06 00:25:44.876 [info] [127.0.0.1][63ac444f][ExtensionHostConnection] The client has reconnected.
+2023-09-06 01:25:43.699 [info] [127.0.0.1][3a7e9493][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-06 01:25:44.120 [info] [127.0.0.1][63ac444f][ExtensionHostConnection] <2166> Extension Host Process exited with code: 0, signal: null.
+2023-09-07 20:59:04.348 [warning] No ptyHost heartbeat after 6 seconds

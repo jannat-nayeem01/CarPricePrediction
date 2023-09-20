@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cf30a1d2dcb6417db678f1554c491167/artifacts
+end_time: 1694926861308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf30a1d2dcb6417db678f1554c491167
+run_name: sneaky-gull-645
+run_uuid: cf30a1d2dcb6417db678f1554c491167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694926861260
+status: 3
+tags: []
+user_id: Jannatun

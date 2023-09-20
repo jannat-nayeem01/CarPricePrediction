@@ -1,0 +1,76 @@
+2023-09-13 10:19:14.144 [info] 
+
+
+
+
+2023-09-13 10:19:14.228 [info] Extension host agent started.
+2023-09-13 10:19:14.353 [debug] Removing uninstalled extensions: ["ms-python.vscode-pylance-2023.8.50"]
+2023-09-13 10:19:14.528 [info] [127.0.0.1][9cd64af9][ManagementConnection] New connection established.
+2023-09-13 10:19:14.703 [info] Log level changed to info
+2023-09-13 10:19:16.473 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] New connection established.
+2023-09-13 10:19:17.111 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] <292> Launched Extension Host Process.
+2023-09-13 10:19:19.523 [info] Deleted from disk ms-python.vscode-pylance /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.50
+2023-09-13 10:19:28.854 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] <292> Starting WebSocket: RAW/api/kernels/c06a6c5b-0a64-4d80-87cd-4f6d63f73b3d
+
+2023-09-13 10:25:52.251 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] <292> Starting WebSocket: RAW/api/kernels/e6d4278a-6378-4cb2-8044-523a8a4c6e85
+
+2023-09-13 10:26:45.311 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-13 10:26:45.368 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2023-09-13 10:26:45.622 [info] [127.0.0.1][9cd64af9][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2023-09-13 10:26:45.634 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-13 10:26:46.467 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-13 10:26:47.485 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-13 10:26:47.842 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-13 11:01:27.722 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-13 11:01:27.903 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-13 12:21:21.178 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-13 12:21:21.366 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-13 12:50:06.510 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-13 12:50:06.732 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-13 12:52:55.084 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-13 12:52:55.241 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-13 14:30:33.458 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-13 14:30:33.643 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 00:15:29.126 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 00:15:29.265 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 00:58:10.889 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 00:58:11.074 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 01:05:49.878 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 01:05:50.064 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 01:13:35.327 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 01:13:35.494 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 01:25:35.384 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 01:25:35.574 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 01:54:29.710 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 01:54:29.965 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 02:28:03.083 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-14 02:28:03.106 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2023-09-14 02:28:03.343 [info] [127.0.0.1][9cd64af9][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2023-09-14 02:28:03.344 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 02:28:03.536 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 02:49:43.119 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 02:49:43.285 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 05:58:58.243 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 05:58:58.436 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 06:29:13.718 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 06:29:14.003 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 11:59:54.957 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 11:59:55.273 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 13:55:46.027 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 13:55:46.222 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 14:50:18.547 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 14:50:18.740 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 14:55:55.900 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 14:55:56.092 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 15:30:12.296 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 15:30:12.486 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 15:55:34.309 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 15:55:34.468 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 17:51:14.645 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 17:51:14.836 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 18:12:40.318 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.
+2023-09-14 18:12:40.519 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 18:31:19.451 [info] [127.0.0.1][8c15281f][ExtensionHostConnection] The client has reconnected.
+2023-09-14 18:31:19.634 [info] [127.0.0.1][9cd64af9][ManagementConnection] The client has reconnected.

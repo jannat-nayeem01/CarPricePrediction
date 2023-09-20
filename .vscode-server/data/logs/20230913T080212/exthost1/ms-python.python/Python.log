@@ -1,0 +1,20 @@
+2023-09-13 08:02:23.881 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-09-13 08:02:23.881 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-09-13 08:02:23.881 [info] Experiment 'pythonSurveyNotification' is active
+2023-09-13 08:02:23.881 [info] Experiment 'pythonTestAdaptercf' is active
+2023-09-13 08:02:23.881 [info] Test server listening.
+2023-09-13 08:02:23.882 [info] > conda info --json
+2023-09-13 08:02:23.917 [info] Found: /bin/python3 --> /bin/python3.11
+2023-09-13 08:02:23.919 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-09-13 08:02:24.048 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-09-13 08:02:24.052 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-09-13 08:02:24.108 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-13 08:02:24.128 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-13 08:02:24.162 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.9
+2023-09-13 08:02:24.169 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.9
+2023-09-13 08:02:24.171 [info] Found: /usr/local/bin/python3.9 --> /usr/local/bin/python3.9
+2023-09-13 08:02:24.501 [info] > /usr/local/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-13 08:02:24.541 [info] Python interpreter path: /bin/python3
+2023-09-13 08:02:24.690 [info] > /usr/local/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-13 08:02:24.839 [info] Python interpreter path: /usr/local/bin/python3
+2023-09-13 08:02:29.937 [info] Starting Pylance language server.

@@ -1,0 +1,35 @@
+2023-09-13 10:19:28.300 [info] [Info  - 10:19:28 AM] (506) Pylance language server 2023.9.10 (pyright c70adefc) starting
+2023-09-13 10:19:28.301 [info] [Info  - 10:19:28 AM] (506) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.10/dist
+2023-09-13 10:19:28.301 [info] [Info  - 10:19:28 AM] (506) Starting service instance "code"
+2023-09-13 10:19:28.466 [info] [Info  - 10:19:28 AM] (506) Setting pythonPath for service "code": "/usr/local/bin/python3"
+2023-09-13 10:19:28.466 [info] [Info  - 10:19:28 AM] (506) Setting pythonPath for service "code": "/usr/local/bin/python3"
+2023-09-13 10:19:28.475 [info] [Warn  - 10:19:28 AM] (506) stubPath /root/code/typings is not a valid directory.
+2023-09-13 10:19:28.545 [info] [Info  - 10:19:28 AM] (506) Assuming Python version 3.11
+2023-09-13 10:19:28.985 [info] [Info  - 10:19:28 AM] (506) Found 1 source file
+2023-09-13 10:19:29.233 [info] [Info  - 10:19:29 AM] (506) Starting service instance "code"
+2023-09-13 10:19:29.287 [info] [Info  - 10:19:29 AM] (506) Setting pythonPath for service "code": "/usr/local/bin/python"
+2023-09-13 10:19:29.288 [info] [Info  - 10:19:29 AM] (506) Setting pythonPath for service "code": "/usr/local/bin/python"
+2023-09-13 10:19:29.292 [info] [Warn  - 10:19:29 AM] (506) stubPath /root/code/typings is not a valid directory.
+2023-09-13 10:19:29.340 [info] [Info  - 10:19:29 AM] (506) Assuming Python version 3.11
+2023-09-13 10:19:29.860 [info] [Info  - 10:19:29 AM] (506) Found 1 source file
+2023-09-13 10:19:32.476 [info] [Info  - 10:19:32 AM] (506) [BG(1)] Long operation: indexing: /root/code/main.py (2362ms)
+2023-09-13 10:19:35.019 [info] [Info  - 10:19:35 AM] (506) [BG(2)] Long operation: getSemanticTokens full at /root/code/CarPricePrediction01.ipynb:pylance-notebook-cell:W0sdnNjb2RlLXJlbW90ZQ==.py (4236ms)
+2023-09-13 10:19:37.691 [info] [Info  - 10:19:37 AM] (506) [BG(2)] Long operation: getSemanticTokens full at /root/code/CarPricePrediction01.ipynb:pylance-notebook-cell:W1sdnNjb2RlLXJlbW90ZQ==.py (2632ms)
+2023-09-13 10:19:38.819 [info] [Info  - 10:19:38 AM] (506) [IDX(3)] Long operation: scan packages /root/code (6561ms)
+2023-09-13 10:19:46.206 [info] [Info  - 10:19:46 AM] (506) [BG(2)] Long operation: analyzing: /root/code/CarPricePrediction01.ipynb:pylance-notebook-cell:pylancePrefixCell.py (8277ms)
+2023-09-13 10:19:49.987 [info] [Info  - 10:19:49 AM] (506) [IDX(3)] Long operation: index execution environment /root/code (10744ms)
+2023-09-13 10:19:50.072 [info] [Info  - 10:19:50 AM] (506) [IDX(3)] Long operation: index packages /root/code (10940ms)
+2023-09-13 10:48:37.228 [info] [Info  - 10:48:37 AM] (506) Starting service instance "code"
+2023-09-13 10:48:37.274 [info] [Info  - 10:48:37 AM] (506) Setting pythonPath for service "code": "undefined"
+2023-09-13 10:48:37.296 [info] [Warn  - 10:48:37 AM] (506) stubPath /root/code/typings is not a valid directory.
+2023-09-13 10:48:37.564 [info] [Info  - 10:48:37 AM] (506) Found 1 source file
+2023-09-13 10:50:54.899 [info] [Info  - 10:50:54 AM] (506) [BG(2)] Long operation: checking: /root/code/main.py (4720ms)
+2023-09-13 10:50:54.901 [info] [Info  - 10:50:54 AM] (506) [BG(2)] Long operation: analyzing: /root/code/main.py (4816ms)
+2023-09-13 10:50:55.903 [info] [Info  - 10:50:55 AM] (506) [BG(4)] Long operation: checking: /root/code/main.py (5824ms)
+2023-09-13 10:50:55.905 [info] [Info  - 10:50:55 AM] (506) [BG(4)] Long operation: analyzing: /root/code/main.py (5859ms)
+2023-09-13 10:50:55.942 [info] [Info  - 10:50:55 AM] (506) [BG(1)] Long operation: checking: /root/code/main.py (5795ms)
+2023-09-13 10:50:55.943 [info] [Info  - 10:50:55 AM] (506) [BG(1)] Long operation: analyzing: /root/code/main.py (5884ms)
+2023-09-13 10:55:39.462 [info] [Info  - 10:55:39 AM] (506) Found 3 source files
+2023-09-13 10:55:41.952 [info] [Info  - 10:55:41 AM] (506) [BG(4)] Long operation: checking: /root/code/main.py (2061ms)
+2023-09-13 10:55:41.953 [info] [Info  - 10:55:41 AM] (506) [BG(4)] Long operation: analyzing: /root/code/main.py (2394ms)
+2023-09-13 10:55:58.556 [info] [Info  - 10:55:58 AM] (506) [BG(4)] Long operation: analyzing: /root/code/assignment2.ipynb:pylance-notebook-cell:pylancePrefixCell.py (2089ms)

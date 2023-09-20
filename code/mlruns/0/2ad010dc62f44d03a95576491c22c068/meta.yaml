@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2ad010dc62f44d03a95576491c22c068/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ad010dc62f44d03a95576491c22c068
+run_name: unequaled-rook-226
+run_uuid: 2ad010dc62f44d03a95576491c22c068
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694966493918
+status: 1
+tags: []
+user_id: Jannatun

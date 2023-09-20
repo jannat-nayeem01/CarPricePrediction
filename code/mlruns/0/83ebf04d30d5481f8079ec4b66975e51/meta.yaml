@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/83ebf04d30d5481f8079ec4b66975e51/artifacts
+end_time: 1694926861237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83ebf04d30d5481f8079ec4b66975e51
+run_name: sincere-stoat-729
+run_uuid: 83ebf04d30d5481f8079ec4b66975e51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694926861166
+status: 3
+tags: []
+user_id: Jannatun

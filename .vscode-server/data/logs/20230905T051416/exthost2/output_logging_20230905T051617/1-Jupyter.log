@@ -214,3 +214,15 @@ Workspace folder ~/code, Home = /root
 07:13:21.357 [info] Handle Execution of Cells 76 for ~/code/CarPricePrediction01.ipynb
 07:13:21.408 [info] Kernel acknowledged execution of cell 76 @ 1693898001389
 07:13:21.436 [info] End cell 76 execution @ 1693898001431, started @ 1693898001389, elapsed time = 0.042s
+01:25:43.842 [info] Disposing HostJupyterExecution
+01:25:43.842 [info] Shutting down notebooks for ccb79234-fe00-4d52-b6d7-0b8faed403c1
+01:25:43.843 [info] Dispose Kernel '~/code/CarPricePrediction01.ipynb' associated with '~/code/CarPricePrediction01.ipynb'
+01:25:43.846 [info] Dispose Kernel process 2395.
+01:25:43.864 [info] Disposing HostJupyterExecution
+01:25:43.953 [warn] Failed to delete connection file file://~/.local/share/jupyter/runtime/kernel-v2-2166sDg8qA27e650.json for pid 2395 [Canceled (FileSystemError): Canceled
+	at Function.e (~/.vscode-server/bin/2ccd690cbff1569e4a83d7c43d45101f817401dc/out/vs/workbench/api/node/extensionHostProcess.js:102:27871)
+	at Object.stat (~/.vscode-server/bin/2ccd690cbff1569e4a83d7c43d45101f817401dc/out/vs/workbench/api/node/extensionHostProcess.js:102:24574)
+	at async mu.delete (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-arm64/out/extension.node.js:17:19237)
+	at async ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-arm64/out/extension.node.js:24:95738] {
+  code: 'Unknown'
+}

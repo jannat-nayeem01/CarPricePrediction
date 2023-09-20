@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/53f6584793ae4d52a8b999743a85f088/artifacts
+end_time: 1694926861441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53f6584793ae4d52a8b999743a85f088
+run_name: salty-bat-405
+run_uuid: 53f6584793ae4d52a8b999743a85f088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694926861359
+status: 3
+tags: []
+user_id: Jannatun

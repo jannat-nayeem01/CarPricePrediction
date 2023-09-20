@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/df429d5e89a2451591c3b04a0fe3b1a6/artifacts
+end_time: 1694926861354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df429d5e89a2451591c3b04a0fe3b1a6
+run_name: delightful-lynx-359
+run_uuid: df429d5e89a2451591c3b04a0fe3b1a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694926861313
+status: 3
+tags: []
+user_id: Jannatun
