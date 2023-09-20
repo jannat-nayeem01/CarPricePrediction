@@ -188,3 +188,5 @@
 2023-09-20 07:06:57.742 [info] [127.0.0.1][19e6c042][ManagementConnection] The client has reconnected.
 2023-09-20 07:33:58.500 [info] [127.0.0.1][19e6c042][ManagementConnection] The client has reconnected.
 2023-09-20 07:33:58.705 [info] [127.0.0.1][d100da51][ExtensionHostConnection] The client has reconnected.
+2023-09-20 09:42:02.028 [info] [127.0.0.1][d100da51][ExtensionHostConnection] The client has reconnected.
+2023-09-20 09:42:02.305 [info] [127.0.0.1][19e6c042][ManagementConnection] The client has reconnected.
