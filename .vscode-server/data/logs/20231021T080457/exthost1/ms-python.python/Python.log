@@ -1,0 +1,9 @@
+2023-10-21 08:05:05.836 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-21 08:05:05.836 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-21 08:05:05.836 [info] Experiment 'pythonSurveyNotification' is active
+2023-10-21 08:05:05.836 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-10-21 08:05:05.836 [info] Experiment 'pythonTestAdaptercf' is active
+2023-10-21 08:05:05.836 [info] Test server listening.
+2023-10-21 08:05:05.837 [info] Python interpreter path: /usr/local/bin/python3
+2023-10-21 08:05:06.982 [info] > conda info --json
+2023-10-21 08:05:12.298 [info] Starting Pylance language server.

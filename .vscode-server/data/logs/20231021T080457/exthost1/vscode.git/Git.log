@@ -1,0 +1,17 @@
+2023-10-21 08:05:01.743 [info] Log level: Info
+2023-10-21 08:05:01.743 [info] Validating found git in: "git"
+2023-10-21 08:05:01.743 [info] Using git "2.39.2" from "git"
+2023-10-21 08:05:01.743 [info] > git rev-parse --show-toplevel [68ms]
+2023-10-21 08:05:01.743 [info] > git rev-parse --git-dir --git-common-dir [45ms]
+2023-10-21 08:05:01.744 [info] Open repository: /root/code
+2023-10-21 08:05:01.745 [info] > git rev-parse --show-toplevel [18ms]
+2023-10-21 08:05:01.745 [info] > git config --get commit.template [24ms]
+2023-10-21 08:05:01.745 [info] No remotes found in the git config file.
+2023-10-21 08:05:01.746 [info] > git rev-parse --show-toplevel [11ms]
+2023-10-21 08:05:01.746 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [21ms]
+2023-10-21 08:05:01.812 [info] > git status -z -uall [294ms]
+2023-10-21 08:05:01.857 [info] No remotes found in the git config file.
+2023-10-21 08:05:01.864 [info] > git config --get commit.template [8ms]
+2023-10-21 08:05:01.867 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-10-21 08:05:02.016 [info] > git status -z -uall [141ms]
+2023-10-21 08:05:02.693 [info] > git check-ignore -v -z --stdin [74ms]

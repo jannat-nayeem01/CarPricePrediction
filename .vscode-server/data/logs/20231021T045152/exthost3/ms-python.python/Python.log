@@ -1,0 +1,21 @@
+2023-10-21 04:55:28.537 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-21 04:55:28.546 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-21 04:55:28.547 [info] Experiment 'pythonSurveyNotification' is active
+2023-10-21 04:55:28.548 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-10-21 04:55:28.549 [info] Experiment 'pythonTestAdaptercf' is active
+2023-10-21 04:55:28.551 [info] Test server listening.
+2023-10-21 04:55:28.559 [info] Python interpreter path: /usr/local/bin/python3
+2023-10-21 04:55:28.835 [info] > /usr/local/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-10-21 04:55:28.848 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-10-21 04:55:28.958 [info] > conda info --json
+2023-10-21 04:55:29.056 [info] Found: /bin/python3 --> /bin/python3.11
+2023-10-21 04:55:29.071 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-10-21 04:55:29.111 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-10-21 04:55:29.113 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-10-21 04:55:29.776 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.11
+2023-10-21 04:55:29.793 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.11
+2023-10-21 04:55:29.793 [info] Found: /usr/local/bin/python3.11 --> /usr/local/bin/python3.11
+2023-10-21 04:55:30.128 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-10-21 04:55:30.501 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2023-10-21 04:55:30.557 [info] > /usr/local/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-10-21 04:55:33.197 [info] Starting Pylance language server.

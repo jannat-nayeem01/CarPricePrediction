@@ -1,0 +1,184 @@
+Visual Studio Code (1.80.2, attached-container, desktop)
+Jupyter Extension Version: 2023.6.1101941928.
+Python Extension Version: 2023.14.0.
+Platform: linux (arm64).
+Workspace folder ~/code, Home = /root
+08:05:03.481 [info] User belongs to experiment group 'FastKernelPicker'
+08:05:03.482 [info] User belongs to experiment group 'NewRemoteUriStorage'
+08:05:03.482 [info] User belongs to experiment group 'PasswordManager'
+08:05:04.582 [info] Start refreshing Kernel Picker (1697875504582)
+08:05:04.596 [info] Using Pylance
+08:05:06.044 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0aee8b7b246df8f9039afb4144a1f6fd8d2ca17a180786b69acc140d282b71a49./usr/local/bin/python3./usr/local/bin/python3.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python3, Unknown, 3.11.4) for '~/code/assignment2.ipynb' (disableUI=true)
+08:05:07.023 [info] End refreshing Kernel Picker (1697875504582)
+08:05:07.325 [warn] Failed to get activated env vars for /usr/local/bin/python3 in 1503ms
+08:05:07.351 [warn] Failed to get activated env vars for /usr/local/bin/python3 in 1291ms
+08:05:07.389 [info] Process Execution: /usr/local/bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+08:05:08.286 [info] Process Execution: /usr/local/bin/python3 -m pip list
+08:05:08.306 [info] Process Execution: /usr/local/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+08:05:08.371 [info] Process Execution: /usr/local/bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"9bf2834e-a1c5-4167-b4f8-9ce86beeeb4a" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-258eNxBsNzcMUeA.json
+    > cwd: ~/code
+08:05:10.083 [info] Handle Execution of Cells 0 for ~/code/assignment2.ipynb
+08:05:10.245 [info] ipykernel version & path 6.25.2, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python3
+08:05:13.885 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+08:05:13.888 [warn] StdErr from Kernel Process 0.01s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+08:05:14.521 [info] Started Kernel Python 3.11.4 (pid: 429)
+08:05:14.523 [info] Started new session cc7f05f1-bac0-4d08-a0ac-7114f284dbe1
+08:05:14.675 [info] Process Execution: /usr/local/bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-arm64/pythonFiles/printJupyterDataDir.py
+08:05:14.703 [info] Kernel acknowledged execution of cell 0 @ 1697875514680
+08:05:25.057 [info] End cell 0 execution @ 1697875524980, started @ 1697875514680, elapsed time = 10.3s
+08:05:48.182 [info] Handle Execution of Cells 1 for ~/code/assignment2.ipynb
+08:05:48.585 [info] Kernel acknowledged execution of cell 1 @ 1697875548531
+08:05:49.595 [info] End cell 1 execution @ 1697875549547, started @ 1697875548531, elapsed time = 1.016s
+08:05:55.226 [info] Handle Execution of Cells 2 for ~/code/assignment2.ipynb
+08:05:55.458 [info] Kernel acknowledged execution of cell 2 @ 1697875555426
+08:05:55.530 [info] End cell 2 execution @ 1697875555524, started @ 1697875555426, elapsed time = 0.098s
+08:05:57.087 [info] Handle Execution of Cells 3 for ~/code/assignment2.ipynb
+08:05:57.123 [info] Kernel acknowledged execution of cell 3 @ 1697875557108
+08:05:57.479 [info] End cell 3 execution @ 1697875557473, started @ 1697875557108, elapsed time = 0.365s
+08:06:00.891 [info] Handle Execution of Cells 4 for ~/code/assignment2.ipynb
+08:06:01.019 [info] Kernel acknowledged execution of cell 4 @ 1697875560997
+08:06:01.119 [info] End cell 4 execution @ 1697875561093, started @ 1697875560997, elapsed time = 0.096s
+08:06:04.165 [info] Handle Execution of Cells 5 for ~/code/assignment2.ipynb
+08:06:04.289 [info] Kernel acknowledged execution of cell 5 @ 1697875564285
+08:06:04.528 [info] End cell 5 execution @ 1697875564482, started @ 1697875564285, elapsed time = 0.197s
+08:06:06.485 [info] Handle Execution of Cells 6 for ~/code/assignment2.ipynb
+08:06:06.645 [info] Kernel acknowledged execution of cell 6 @ 1697875566612
+08:06:06.949 [info] End cell 6 execution @ 1697875566877, started @ 1697875566612, elapsed time = 0.265s
+08:06:11.444 [info] Handle Execution of Cells 7 for ~/code/assignment2.ipynb
+08:06:11.499 [info] Kernel acknowledged execution of cell 7 @ 1697875571480
+08:06:12.024 [info] End cell 7 execution @ 1697875572010, started @ 1697875571480, elapsed time = 0.53s
+08:06:17.342 [info] Handle Execution of Cells 8 for ~/code/assignment2.ipynb
+08:06:17.377 [info] Kernel acknowledged execution of cell 8 @ 1697875577362
+08:06:17.429 [info] End cell 8 execution @ 1697875577426, started @ 1697875577362, elapsed time = 0.064s
+08:06:21.264 [info] Handle Execution of Cells 9 for ~/code/assignment2.ipynb
+08:06:21.318 [info] Kernel acknowledged execution of cell 9 @ 1697875581289
+08:06:21.353 [info] End cell 9 execution @ 1697875581349, started @ 1697875581289, elapsed time = 0.06s
+08:06:25.238 [info] Handle Execution of Cells 10 for ~/code/assignment2.ipynb
+08:06:25.285 [info] Kernel acknowledged execution of cell 10 @ 1697875585264
+08:06:25.334 [info] End cell 10 execution @ 1697875585332, started @ 1697875585264, elapsed time = 0.068s
+08:06:29.010 [info] Handle Execution of Cells 11 for ~/code/assignment2.ipynb
+08:06:29.048 [info] Kernel acknowledged execution of cell 11 @ 1697875589037
+08:06:29.090 [info] End cell 11 execution @ 1697875589083, started @ 1697875589037, elapsed time = 0.046s
+08:06:32.786 [info] Handle Execution of Cells 13 for ~/code/assignment2.ipynb
+08:06:32.846 [info] Kernel acknowledged execution of cell 13 @ 1697875592826
+08:06:32.866 [info] End cell 13 execution @ 1697875592862, started @ 1697875592826, elapsed time = 0.036s
+08:06:36.300 [info] Handle Execution of Cells 14 for ~/code/assignment2.ipynb
+08:06:36.355 [info] Kernel acknowledged execution of cell 14 @ 1697875596328
+08:06:36.359 [info] End cell 14 execution @ 1697875596355, started @ 1697875596328, elapsed time = 0.027s
+08:06:38.359 [info] Handle Execution of Cells 15 for ~/code/assignment2.ipynb
+08:06:38.382 [info] Kernel acknowledged execution of cell 15 @ 1697875598378
+08:06:38.440 [info] End cell 15 execution @ 1697875598437, started @ 1697875598378, elapsed time = 0.059s
+08:06:42.219 [info] Handle Execution of Cells 16 for ~/code/assignment2.ipynb
+08:06:42.247 [info] Kernel acknowledged execution of cell 16 @ 1697875602242
+08:06:42.308 [info] End cell 16 execution @ 1697875602306, started @ 1697875602242, elapsed time = 0.064s
+08:06:45.646 [info] Handle Execution of Cells 17 for ~/code/assignment2.ipynb
+08:06:45.700 [info] Kernel acknowledged execution of cell 17 @ 1697875605668
+08:06:45.710 [info] End cell 17 execution @ 1697875605699, started @ 1697875605668, elapsed time = 0.031s
+08:06:49.515 [info] Handle Execution of Cells 19 for ~/code/assignment2.ipynb
+08:06:49.576 [info] Kernel acknowledged execution of cell 19 @ 1697875609564
+08:06:50.707 [info] End cell 19 execution @ 1697875610703, started @ 1697875609564, elapsed time = 1.139s
+08:06:55.435 [info] Handle Execution of Cells 20 for ~/code/assignment2.ipynb
+08:06:55.464 [info] Kernel acknowledged execution of cell 20 @ 1697875615460
+08:06:56.324 [info] End cell 20 execution @ 1697875616319, started @ 1697875615460, elapsed time = 0.859s
+08:06:59.803 [info] Handle Execution of Cells 21 for ~/code/assignment2.ipynb
+08:06:59.877 [info] Kernel acknowledged execution of cell 21 @ 1697875619828
+08:07:00.454 [info] End cell 21 execution @ 1697875620447, started @ 1697875619828, elapsed time = 0.619s
+08:07:03.287 [info] Handle Execution of Cells 22 for ~/code/assignment2.ipynb
+08:07:03.349 [info] Kernel acknowledged execution of cell 22 @ 1697875623322
+08:07:03.532 [info] End cell 22 execution @ 1697875623528, started @ 1697875623322, elapsed time = 0.206s
+08:07:07.794 [info] Handle Execution of Cells 23 for ~/code/assignment2.ipynb
+08:07:07.857 [info] Kernel acknowledged execution of cell 23 @ 1697875627840
+08:07:08.331 [info] End cell 23 execution @ 1697875628327, started @ 1697875627840, elapsed time = 0.487s
+08:07:12.315 [info] Handle Execution of Cells 24 for ~/code/assignment2.ipynb
+08:07:12.371 [info] Kernel acknowledged execution of cell 24 @ 1697875632362
+08:07:13.626 [info] End cell 24 execution @ 1697875633618, started @ 1697875632362, elapsed time = 1.256s
+08:07:17.932 [info] Handle Execution of Cells 26 for ~/code/assignment2.ipynb
+08:07:17.997 [info] Kernel acknowledged execution of cell 26 @ 1697875637968
+08:07:18.260 [info] End cell 26 execution @ 1697875638259, started @ 1697875637968, elapsed time = 0.291s
+08:07:22.689 [info] Handle Execution of Cells 27 for ~/code/assignment2.ipynb
+08:07:22.767 [info] Kernel acknowledged execution of cell 27 @ 1697875642745
+08:07:23.140 [info] End cell 27 execution @ 1697875643137, started @ 1697875642745, elapsed time = 0.392s
+08:07:27.038 [info] Handle Execution of Cells 29 for ~/code/assignment2.ipynb
+08:07:27.106 [info] Kernel acknowledged execution of cell 29 @ 1697875647088
+08:07:27.403 [info] End cell 29 execution @ 1697875647401, started @ 1697875647088, elapsed time = 0.313s
+08:07:30.782 [info] Handle Execution of Cells 30 for ~/code/assignment2.ipynb
+08:07:30.837 [info] Kernel acknowledged execution of cell 30 @ 1697875650812
+08:07:31.220 [info] End cell 30 execution @ 1697875651214, started @ 1697875650812, elapsed time = 0.402s
+08:07:35.133 [info] Handle Execution of Cells 31 for ~/code/assignment2.ipynb
+08:07:35.188 [info] Kernel acknowledged execution of cell 31 @ 1697875655172
+08:07:36.679 [info] End cell 31 execution @ 1697875656674, started @ 1697875655172, elapsed time = 1.502s
+08:07:40.391 [info] Handle Execution of Cells 33 for ~/code/assignment2.ipynb
+08:07:40.449 [info] Kernel acknowledged execution of cell 33 @ 1697875660431
+08:07:40.471 [info] End cell 33 execution @ 1697875660468, started @ 1697875660431, elapsed time = 0.037s
+08:07:43.679 [info] Handle Execution of Cells 34 for ~/code/assignment2.ipynb
+08:07:43.749 [info] Kernel acknowledged execution of cell 34 @ 1697875663722
+08:07:44.482 [info] End cell 34 execution @ 1697875664474, started @ 1697875663722, elapsed time = 0.752s
+08:07:47.940 [info] Handle Execution of Cells 35 for ~/code/assignment2.ipynb
+08:07:47.979 [info] Kernel acknowledged execution of cell 35 @ 1697875667968
+08:07:49.151 [info] End cell 35 execution @ 1697875669127, started @ 1697875667968, elapsed time = 1.159s
+08:07:52.415 [info] Handle Execution of Cells 37 for ~/code/assignment2.ipynb
+08:07:52.468 [info] Kernel acknowledged execution of cell 37 @ 1697875672455
+08:07:52.479 [info] End cell 37 execution @ 1697875672476, started @ 1697875672455, elapsed time = 0.021s
+08:07:55.386 [info] Handle Execution of Cells 39 for ~/code/assignment2.ipynb
+08:07:55.418 [info] Kernel acknowledged execution of cell 39 @ 1697875675406
+08:07:55.423 [info] End cell 39 execution @ 1697875675420, started @ 1697875675406, elapsed time = 0.014s
+08:07:57.176 [info] Handle Execution of Cells 40 for ~/code/assignment2.ipynb
+08:07:57.208 [info] Kernel acknowledged execution of cell 40 @ 1697875677197
+08:07:57.233 [info] End cell 40 execution @ 1697875677228, started @ 1697875677197, elapsed time = 0.031s
+08:08:00.316 [info] Handle Execution of Cells 42 for ~/code/assignment2.ipynb
+08:08:00.370 [info] Kernel acknowledged execution of cell 42 @ 1697875680344
+08:08:00.420 [info] End cell 42 execution @ 1697875680403, started @ 1697875680344, elapsed time = 0.059s
+08:08:02.106 [info] Handle Execution of Cells 43 for ~/code/assignment2.ipynb
+08:08:02.169 [info] Kernel acknowledged execution of cell 43 @ 1697875682142
+08:08:02.191 [info] End cell 43 execution @ 1697875682188, started @ 1697875682142, elapsed time = 0.046s
+08:08:05.125 [info] Handle Execution of Cells 44 for ~/code/assignment2.ipynb
+08:08:05.165 [info] Kernel acknowledged execution of cell 44 @ 1697875685147
+08:08:05.168 [info] End cell 44 execution @ 1697875685166, started @ 1697875685147, elapsed time = 0.019s
+08:08:06.872 [info] Handle Execution of Cells 45 for ~/code/assignment2.ipynb
+08:08:06.924 [info] Kernel acknowledged execution of cell 45 @ 1697875686920
+08:08:06.940 [info] End cell 45 execution @ 1697875686937, started @ 1697875686920, elapsed time = 0.017s
+08:08:09.848 [info] Handle Execution of Cells 46 for ~/code/assignment2.ipynb
+08:08:09.908 [info] Kernel acknowledged execution of cell 46 @ 1697875689888
+08:08:10.095 [info] End cell 46 execution @ 1697875690089, started @ 1697875689888, elapsed time = 0.201s
+08:08:13.390 [info] Handle Execution of Cells 47 for ~/code/assignment2.ipynb
+08:08:13.429 [info] Kernel acknowledged execution of cell 47 @ 1697875693418
+08:08:13.599 [info] End cell 47 execution @ 1697875693596, started @ 1697875693418, elapsed time = 0.178s
+08:08:17.701 [info] Handle Execution of Cells 49 for ~/code/assignment2.ipynb
+08:08:17.753 [info] Kernel acknowledged execution of cell 49 @ 1697875697732
+08:08:17.764 [info] End cell 49 execution @ 1697875697760, started @ 1697875697732, elapsed time = 0.028s
+08:08:19.552 [info] Handle Execution of Cells 50 for ~/code/assignment2.ipynb
+08:08:19.581 [info] Kernel acknowledged execution of cell 50 @ 1697875699569
+08:08:19.587 [info] End cell 50 execution @ 1697875699584, started @ 1697875699569, elapsed time = 0.015s
+08:08:21.300 [info] Handle Execution of Cells 51 for ~/code/assignment2.ipynb
+08:08:21.338 [info] Kernel acknowledged execution of cell 51 @ 1697875701321
+08:08:21.340 [info] End cell 51 execution @ 1697875701338, started @ 1697875701321, elapsed time = 0.017s
+08:08:24.446 [info] Handle Execution of Cells 52 for ~/code/assignment2.ipynb
+08:08:24.499 [info] Kernel acknowledged execution of cell 52 @ 1697875704476
+08:08:24.516 [info] End cell 52 execution @ 1697875704512, started @ 1697875704476, elapsed time = 0.036s
+08:08:27.792 [info] Handle Execution of Cells 54 for ~/code/assignment2.ipynb
+08:08:27.866 [info] Kernel acknowledged execution of cell 54 @ 1697875707831
+08:08:27.978 [info] End cell 54 execution @ 1697875707973, started @ 1697875707831, elapsed time = 0.142s
+08:08:31.619 [info] Handle Execution of Cells 55 for ~/code/assignment2.ipynb
+08:08:31.663 [info] Kernel acknowledged execution of cell 55 @ 1697875711641
+08:08:31.725 [info] End cell 55 execution @ 1697875711693, started @ 1697875711641, elapsed time = 0.052s
+08:08:35.391 [info] Handle Execution of Cells 56 for ~/code/assignment2.ipynb
+08:08:35.433 [info] Kernel acknowledged execution of cell 56 @ 1697875715414
+08:08:35.554 [info] End cell 56 execution @ 1697875715545, started @ 1697875715414, elapsed time = 0.131s
+08:08:38.232 [info] Handle Execution of Cells 57 for ~/code/assignment2.ipynb
+08:08:38.291 [info] Kernel acknowledged execution of cell 57 @ 1697875718274
+08:08:38.305 [info] End cell 57 execution @ 1697875718302, started @ 1697875718274, elapsed time = 0.028s
+08:08:41.708 [info] Handle Execution of Cells 58 for ~/code/assignment2.ipynb
+08:08:41.799 [info] Kernel acknowledged execution of cell 58 @ 1697875721761
+08:08:41.872 [info] End cell 58 execution @ 1697875721871, started @ 1697875721761, elapsed time = 0.11s
+08:08:44.819 [info] Handle Execution of Cells 59 for ~/code/assignment2.ipynb
+08:08:44.870 [info] Kernel acknowledged execution of cell 59 @ 1697875724856
+08:08:44.876 [info] End cell 59 execution @ 1697875724869, started @ 1697875724856, elapsed time = 0.013s
+08:08:48.429 [info] Handle Execution of Cells 61 for ~/code/assignment2.ipynb
+08:08:48.488 [info] Kernel acknowledged execution of cell 61 @ 1697875728469
+08:08:48.500 [info] End cell 61 execution @ 1697875728495, started @ 1697875728469, elapsed time = 0.026s
+08:08:54.130 [info] Handle Execution of Cells 62 for ~/code/assignment2.ipynb
+08:08:54.189 [info] Kernel acknowledged execution of cell 62 @ 1697875734172
+08:09:57.215 [info] End cell 62 execution @ 1697875797182, started @ 1697875734172, elapsed time = 63.01s
+08:09:57.218 [warn] Cancel all remaining cells due to cancellation or failure in execution

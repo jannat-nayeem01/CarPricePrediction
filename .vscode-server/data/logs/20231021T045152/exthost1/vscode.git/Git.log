@@ -1,0 +1,33 @@
+2023-10-21 04:52:06.546 [info] Log level: Info
+2023-10-21 04:52:06.546 [info] Validating found git in: "git"
+2023-10-21 04:52:06.547 [info] Using git "2.39.2" from "git"
+2023-10-21 04:52:06.548 [info] > git rev-parse --show-toplevel [50ms]
+2023-10-21 04:52:06.549 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-21 04:52:06.550 [info] > git rev-parse --show-toplevel [44ms]
+2023-10-21 04:52:06.550 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-21 04:52:06.551 [info] > git rev-parse --show-toplevel [26ms]
+2023-10-21 04:52:06.551 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-21 04:52:06.553 [info] > git rev-parse --show-toplevel [21ms]
+2023-10-21 04:52:06.555 [info] fatal: not a git repository (or any parent up to mount point /root)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-21 04:52:06.598 [info] > git rev-parse --show-toplevel [25ms]
+2023-10-21 04:52:06.612 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-10-21 04:52:06.622 [info] Open repository: /root/code
+2023-10-21 04:52:06.665 [info] > git rev-parse --show-toplevel [33ms]
+2023-10-21 04:52:06.666 [info] fatal: not a git repository (or any parent up to mount point /root)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-21 04:52:06.679 [info] > git config --get commit.template [15ms]
+2023-10-21 04:52:06.688 [info] No remotes found in the git config file.
+2023-10-21 04:52:06.690 [info] > git rev-parse --show-toplevel [15ms]
+2023-10-21 04:52:06.692 [info] fatal: not a git repository (or any parent up to mount point /root)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-21 04:52:06.728 [info] > git rev-parse --show-toplevel [15ms]
+2023-10-21 04:52:06.728 [info] fatal: not a git repository (or any parent up to mount point /root)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-21 04:52:06.732 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [45ms]
+2023-10-21 04:52:06.936 [info] > git status -z -uall [174ms]
+2023-10-21 04:52:06.956 [info] No remotes found in the git config file.
+2023-10-21 04:52:06.958 [info] > git config --get commit.template [8ms]
+2023-10-21 04:52:06.965 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-10-21 04:52:07.029 [info] > git status -z -uall [58ms]
+2023-10-21 04:52:07.292 [info] > git check-ignore -v -z --stdin [6ms]

@@ -1,0 +1,56 @@
+Visual Studio Code (1.80.2, attached-container, desktop)
+Jupyter Extension Version: 2023.6.1101941928.
+Python Extension Version: 2023.14.0.
+Platform: linux (arm64).
+Workspace folder ~/code, Home = /root
+07:56:50.469 [info] User belongs to experiment group 'FastKernelPicker'
+07:56:50.469 [info] User belongs to experiment group 'NewRemoteUriStorage'
+07:56:50.469 [info] User belongs to experiment group 'PasswordManager'
+07:56:50.973 [info] Start refreshing Kernel Picker (1697875010973)
+07:56:50.977 [info] Using Pylance
+07:56:52.586 [warn] Failed to get activated env vars for /usr/local/bin/python3 in 886ms
+07:56:52.597 [info] Process Execution: /usr/local/bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+07:56:52.639 [info] Process Execution: /usr/local/bin/python3 -m pip list
+07:56:53.571 [info] End refreshing Kernel Picker (1697875010973)
+07:56:54.036 [warn] No interpreter for Pylance for Notebook URI "~/code/assignment2.ipynb"
+08:00:26.720 [info] Start refreshing Kernel Picker (1697875226720)
+08:00:26.791 [info] End refreshing Kernel Picker (1697875226720)
+08:00:26.813 [info] Start refreshing Kernel Picker (1697875226813)
+08:00:27.094 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/code/assignment2.ipynb' (disableUI=true)
+08:00:27.374 [warn] Failed to get activated env vars for /usr/local/bin/python in 284ms
+08:00:27.379 [warn] Failed to get activated env vars for /usr/local/bin/python in 235ms
+08:00:27.396 [info] Process Execution: /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+08:00:27.537 [info] Process Execution: /usr/local/bin/python -m pip list
+08:00:27.547 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+08:00:27.588 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"a3352e6a-ec7d-4d5f-8af8-3f413f3f0ce2" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-2522qZjUnMkxoCu.json
+    > cwd: ~/code
+08:00:28.008 [info] End refreshing Kernel Picker (1697875226813)
+08:00:28.353 [info] ipykernel version & path 6.25.2, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+08:00:28.866 [warn] StdErr from Kernel Process 0.01s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+08:00:29.121 [info] Started Kernel Python 3.11.4 (pid: 2470)
+08:00:29.121 [info] Started new session a4177f0c-d710-435e-8dd6-6ebf1c78662c
+08:00:29.133 [warn] No interpreter with path /usr/local/bin/python3 found in Python API, will convert Uri path to string as Id /usr/local/bin/python3
+08:00:29.211 [info] Process Execution: /usr/local/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-arm64/pythonFiles/printJupyterDataDir.py
+08:00:29.288 [info] Disposing kernel .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher for notebook ~/code/assignment2.ipynb due to selection of another kernel or closing of the notebook
+08:00:29.295 [info] Dispose Kernel '~/code/assignment2.ipynb' associated with '~/code/assignment2.ipynb'
+08:00:29.298 [info] Dispose Kernel process 2470.
+08:00:29.331 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0aee8b7b246df8f9039afb4144a1f6fd8d2ca17a180786b69acc140d282b71a49./usr/local/bin/python3./usr/local/bin/python3.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python3, Unknown, 3.11.4) for '~/code/assignment2.ipynb' (disableUI=true)
+08:00:29.374 [warn] Failed to get activated env vars for /usr/local/bin/python3 in 37ms
+08:00:29.383 [info] Process Execution: /usr/local/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+08:00:29.402 [info] Process Execution: /usr/local/bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9008 --control=9006 --hb=9005 --Session.signature_scheme="hmac-sha256" --Session.key=b"2d98de2a-df81-4cbf-98d7-62966e9b22eb" --shell=9007 --transport="tcp" --iopub=9009 --f=~/.local/share/jupyter/runtime/kernel-v2-252yOy05b2tCpyN.json
+    > cwd: ~/code
+08:00:29.545 [info] ipykernel version & path 6.25.2, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python3
+08:00:29.668 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+08:00:29.831 [info] Started Kernel Python 3.11.4 (pid: 2512)
+08:00:29.831 [info] Started new session 3adab4fb-4691-4d2b-84f0-ddb214e65a35
+08:00:29.860 [info] Process Execution: /usr/local/bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-arm64/pythonFiles/printJupyterDataDir.py
+08:00:32.900 [info] Handle Execution of Cells 0 for ~/code/assignment2.ipynb
+08:00:32.973 [info] Kernel acknowledged execution of cell 0 @ 1697875232935
+08:00:34.868 [info] End cell 0 execution @ 1697875234843, started @ 1697875232935, elapsed time = 1.908s
+08:00:34.869 [warn] Cancel all remaining cells due to cancellation or failure in execution

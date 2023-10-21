@@ -1,0 +1,9 @@
+2023-10-21 08:03:10.812 [info] [Info  - 8:03:10 AM] (448) Pylance language server 2023.10.40 (pyright 088ebaa5) starting
+2023-10-21 08:03:10.845 [info] [Info  - 8:03:10 AM] (448) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40/dist
+2023-10-21 08:03:10.845 [info] [Info  - 8:03:10 AM] (448) Starting service instance "code"
+2023-10-21 08:03:11.264 [info] [Info  - 8:03:11 AM] (448) Setting pythonPath for service "code": "/usr/local/bin/python3"
+2023-10-21 08:03:11.268 [info] [Info  - 8:03:11 AM] (448) Setting environmentName for service "code": "3.11.4 (global)"
+2023-10-21 08:03:11.353 [info] [Info  - 8:03:11 AM] (448) Assuming Python version 3.11
+2023-10-21 08:03:11.694 [info] [Info  - 8:03:11 AM] (448) Found 4 source files
+2023-10-21 08:03:16.281 [info] [Info  - 8:03:16 AM] (448) [IDX(2)] Long operation: scan packages /root/code (2476ms)
+2023-10-21 08:03:19.537 [info] [Info  - 8:03:19 AM] (448) [BG(1)] Long operation: analyzing: /root/code/assignment2.ipynb:pylance-notebook-cell:pylancePrefixCell.py (2837ms)

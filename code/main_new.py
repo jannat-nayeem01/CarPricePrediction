@@ -1,4 +1,4 @@
-# app_new.py
+# main_new.py
 import dash
 import dash_core_components as dbc
 import dash_html_components as html

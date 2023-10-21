@@ -1,0 +1,36 @@
+Visual Studio Code (1.80.2, attached-container, desktop)
+Jupyter Extension Version: 2023.6.1101941928.
+Python Extension Version: 2023.14.0.
+Platform: linux (arm64).
+Workspace folder ~/code, Home = /root
+08:03:04.131 [info] User belongs to experiment group 'FastKernelPicker'
+08:03:04.131 [info] User belongs to experiment group 'NewRemoteUriStorage'
+08:03:04.131 [info] User belongs to experiment group 'PasswordManager'
+08:03:05.116 [info] Start refreshing Kernel Picker (1697875385116)
+08:03:05.149 [info] Using Pylance
+08:03:06.339 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0aee8b7b246df8f9039afb4144a1f6fd8d2ca17a180786b69acc140d282b71a49./usr/local/bin/python3./usr/local/bin/python3.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python3, Unknown, 3.11.4) for '~/code/assignment2.ipynb' (disableUI=true)
+08:03:07.574 [info] End refreshing Kernel Picker (1697875385116)
+08:03:07.900 [warn] Failed to get activated env vars for /usr/local/bin/python3 in 1842ms
+08:03:07.905 [warn] Failed to get activated env vars for /usr/local/bin/python3 in 1555ms
+08:03:07.929 [info] Process Execution: /usr/local/bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+08:03:08.090 [info] Process Execution: /usr/local/bin/python3 -m pip list
+08:03:08.121 [info] Process Execution: /usr/local/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+08:03:08.145 [info] Process Execution: /usr/local/bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"3512b232-7879-4ef0-9edd-171c31976762" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-246Q1OjTJnYz17L.json
+    > cwd: ~/code
+08:03:09.141 [info] ipykernel version & path 6.25.2, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python3
+08:03:09.983 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+08:03:09.984 [warn] StdErr from Kernel Process 0.01s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+08:03:10.837 [info] Started Kernel Python 3.11.4 (pid: 447)
+08:03:10.837 [info] Started new session 9c925ebd-b71d-47f2-858d-f2673667b84f
+08:03:11.166 [info] Process Execution: /usr/local/bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-arm64/pythonFiles/printJupyterDataDir.py
+08:03:12.924 [info] Handle Execution of Cells 0 for ~/code/assignment2.ipynb
+08:03:13.002 [info] Kernel acknowledged execution of cell 0 @ 1697875392979
+08:03:15.656 [info] End cell 0 execution @ 1697875395647, started @ 1697875392979, elapsed time = 2.668s
+08:03:15.657 [warn] Cancel all remaining cells due to cancellation or failure in execution
+08:03:34.367 [info] Disposing HostJupyterExecution
+08:03:34.369 [info] Shutting down notebooks for 573ea589-d1ac-4c2d-889b-f8f3aac0739b
+08:03:34.371 [info] Dispose Kernel '~/code/assignment2.ipynb' associated with '~/code/assignment2.ipynb'
+08:03:34.386 [info] Dispose Kernel process 447.
+08:03:34.458 [info] Disposing HostJupyterExecution

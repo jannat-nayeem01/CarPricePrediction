@@ -1,0 +1,9 @@
+2023-10-21 08:11:19.374 [info] [Info  - 8:11:19 AM] (389) Pylance language server 2023.10.40 (pyright 088ebaa5) starting
+2023-10-21 08:11:19.377 [info] [Info  - 8:11:19 AM] (389) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40/dist
+2023-10-21 08:11:19.377 [info] [Info  - 8:11:19 AM] (389) Starting service instance "code"
+2023-10-21 08:11:19.716 [info] [Info  - 8:11:19 AM] (389) Setting pythonPath for service "code": "/usr/local/bin/python3"
+2023-10-21 08:11:19.723 [info] [Info  - 8:11:19 AM] (389) Setting environmentName for service "code": "3.11.4 (global)"
+2023-10-21 08:11:19.835 [info] [Info  - 8:11:19 AM] (389) Assuming Python version 3.11
+2023-10-21 08:11:20.769 [info] [Info  - 8:11:20 AM] (389) Found 4 source files
+2023-10-21 08:11:25.544 [info] [Info  - 8:11:25 AM] (389) [BG(1)] Long operation: getSemanticTokens full at /root/code/assignment2.ipynb:pylance-notebook-cell:Y121sdnNjb2RlLXJlbW90ZQ==.py (2040ms)
+2023-10-21 08:11:29.512 [info] [Info  - 8:11:29 AM] (389) [BG(1)] Long operation: analyzing: /root/code/assignment2.ipynb:pylance-notebook-cell:pylancePrefixCell.py (3219ms)

@@ -1,0 +1,18 @@
+2023-10-21 04:55:33.115 [info] [Info  - 4:55:32 AM] (2301) Pylance language server 2023.10.40 (pyright 088ebaa5) starting
+2023-10-21 04:55:33.122 [info] [Info  - 4:55:33 AM] (2301) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40/dist
+2023-10-21 04:55:33.126 [info] [Info  - 4:55:33 AM] (2301) Starting service instance "code"
+2023-10-21 04:55:33.461 [info] [Info  - 4:55:33 AM] (2301) Setting pythonPath for service "code": "/usr/local/bin/python3"
+2023-10-21 04:55:33.470 [info] [Info  - 4:55:33 AM] (2301) Setting environmentName for service "code": "3.11.4 (global)"
+2023-10-21 04:55:33.563 [info] [Info  - 4:55:33 AM] (2301) Assuming Python version 3.11
+2023-10-21 04:55:34.294 [info] [Info  - 4:55:34 AM] (2301) Found 4 source files
+2023-10-21 04:55:34.733 [info] [Info  - 4:55:34 AM] (2301) Starting service instance "code"
+2023-10-21 04:55:34.858 [info] [Info  - 4:55:34 AM] (2301) Setting pythonPath for service "code": "/usr/local/bin/python"
+2023-10-21 04:55:34.858 [info] [Info  - 4:55:34 AM] (2301) Setting environmentName for service "code": "3.11.4 (global)"
+2023-10-21 04:55:34.946 [info] [Info  - 4:55:34 AM] (2301) Assuming Python version 3.11
+2023-10-21 04:55:35.623 [info] [Info  - 4:55:35 AM] (2301) Found 4 source files
+2023-10-21 04:55:40.953 [info] [Info  - 4:55:40 AM] (2301) [IDX(3)] Long operation: scan packages /root/code (2472ms)
+2023-10-21 04:55:43.211 [info] [Info  - 4:55:43 AM] (2301) [BG(2)] Long operation: getSemanticTokens full at /root/code/assignment2.ipynb:pylance-notebook-cell:Y124sdnNjb2RlLXJlbW90ZQ==.py (4883ms)
+2023-10-21 04:55:48.373 [info] [Info  - 4:55:48 AM] (2301) [BG(2)] Long operation: analyzing: /root/code/assignment2.ipynb:pylance-notebook-cell:pylancePrefixCell.py (5112ms)
+2023-10-21 04:55:52.633 [info] [Info  - 4:55:52 AM] (2301) [IDX(3)] Long operation: index execution environment /root/code (11346ms)
+2023-10-21 04:55:52.754 [info] [Info  - 4:55:52 AM] (2301) [IDX(3)] Long operation: index packages /root/code (11601ms)
+2023-10-21 06:26:57.414 [info] [Info  - 6:26:57 AM] (2301) [BG(2)] Long operation: analyzing: /root/code/assignment2.ipynb:pylance-notebook-cell:pylancePrefixCell.py (2171ms)

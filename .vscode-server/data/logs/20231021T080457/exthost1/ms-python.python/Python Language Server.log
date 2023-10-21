@@ -1,0 +1,13 @@
+2023-10-21 08:05:11.564 [info] [Info  - 8:05:11 AM] (410) Pylance language server 2023.10.40 (pyright 088ebaa5) starting
+2023-10-21 08:05:11.695 [info] [Info  - 8:05:11 AM] (410) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40/dist
+2023-10-21 08:05:11.696 [info] [Info  - 8:05:11 AM] (410) Starting service instance "code"
+2023-10-21 08:05:12.826 [info] [Info  - 8:05:12 AM] (410) Setting pythonPath for service "code": "/usr/local/bin/python3"
+2023-10-21 08:05:12.840 [info] [Info  - 8:05:12 AM] (410) Setting environmentName for service "code": "3.11.4 (global)"
+2023-10-21 08:05:13.368 [info] [Info  - 8:05:13 AM] (410) Assuming Python version 3.11
+2023-10-21 08:05:14.545 [info] [Info  - 8:05:14 AM] (410) Found 4 source files
+2023-10-21 08:05:18.095 [info] [Info  - 8:05:18 AM] (410) [BG(1)] Long operation: indexing: /root/code/home.py (2528ms)
+2023-10-21 08:05:20.919 [info] [Info  - 8:05:20 AM] (410) [BG(1)] Long operation: getSemanticTokens full at /root/code/assignment2.ipynb:pylance-notebook-cell:W0sdnNjb2RlLXJlbW90ZQ==.py (2948ms)
+2023-10-21 08:05:22.274 [info] [Info  - 8:05:22 AM] (410) [IDX(2)] Long operation: scan packages /root/code (5476ms)
+2023-10-21 08:05:31.462 [info] [Info  - 8:05:31 AM] (410) [BG(1)] Long operation: checking: /root/code/assignment2.ipynb:pylance-notebook-cell:X50sdnNjb2RlLXJlbW90ZQ==.py (2494ms)
+2023-10-21 08:05:31.470 [info] [Info  - 8:05:31 AM] (410) [BG(1)] Long operation: analyzing: /root/code/assignment2.ipynb:pylance-notebook-cell:X50sdnNjb2RlLXJlbW90ZQ==.py (2495ms)
+2023-10-21 08:05:33.331 [info] [Info  - 8:05:33 AM] (410) [BG(1)] Long operation: analyzing: /root/code/assignment2.ipynb:pylance-notebook-cell:pylancePrefixCell.py (10787ms)

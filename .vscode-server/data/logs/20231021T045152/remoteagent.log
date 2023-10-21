@@ -1,0 +1,29 @@
+2023-10-21 04:51:52.972 [info] 
+
+
+
+
+2023-10-21 04:51:53.090 [info] Extension host agent started.
+2023-10-21 04:51:53.173 [debug] Removing uninstalled extensions: ["ms-python.vscode-pylance-2023.10.10","ms-python.vscode-pylance-2023.10.30"]
+2023-10-21 04:51:53.236 [info] [127.0.0.1][d72b4d59][ManagementConnection] New connection established.
+2023-10-21 04:51:53.405 [info] Log level changed to info
+2023-10-21 04:51:59.022 [info] [127.0.0.1][45949ae1][ExtensionHostConnection] New connection established.
+2023-10-21 04:51:59.747 [info] [127.0.0.1][45949ae1][ExtensionHostConnection] <320> Launched Extension Host Process.
+2023-10-21 04:52:04.129 [info] Deleted from disk ms-python.vscode-pylance /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10
+2023-10-21 04:52:04.162 [info] Deleted from disk ms-python.vscode-pylance /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.30
+2023-10-21 04:52:06.427 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/root/.vscode-server/extensions/._a8eebee0-1567-436a-85db-0ac640e1d509/dist/typeshed-fallback/stdlib/xml/parsers' failed: No such file or directory (EUNKNOWN) (path: /root)
+2023-10-21 04:52:06.428 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/root/.vscode-server/extensions/._a8eebee0-1567-436a-85db-0ac640e1d509/dist/typeshed-fallback/stdlib/xml/parsers' failed: No such file or directory
+2023-10-21 04:53:35.853 [info] [127.0.0.1][d72b4d59][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-21 04:53:35.969 [info] [127.0.0.1][45949ae1][ExtensionHostConnection] <320> Extension Host Process exited with code: 0, signal: null.
+2023-10-21 04:55:15.538 [info] [127.0.0.1][02230500][ManagementConnection] New connection established.
+2023-10-21 04:55:15.959 [info] [127.0.0.1][3c1561ba][ExtensionHostConnection] New connection established.
+2023-10-21 04:55:15.994 [info] [127.0.0.1][3c1561ba][ExtensionHostConnection] <1767> Launched Extension Host Process.
+2023-10-21 04:55:22.946 [info] [127.0.0.1][02230500][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-21 04:55:22.998 [info] [127.0.0.1][3c1561ba][ExtensionHostConnection] <1767> Extension Host Process exited with code: 0, signal: null.
+2023-10-21 04:55:25.191 [info] [127.0.0.1][1ee632ed][ManagementConnection] New connection established.
+2023-10-21 04:55:25.704 [info] [127.0.0.1][6f99a169][ExtensionHostConnection] New connection established.
+2023-10-21 04:55:25.728 [info] [127.0.0.1][6f99a169][ExtensionHostConnection] <2171> Launched Extension Host Process.
+2023-10-21 04:55:35.355 [info] [127.0.0.1][6f99a169][ExtensionHostConnection] <2171> Starting WebSocket: RAW/api/kernels/c8f2f098-7197-4e15-b17a-cf866ccd44e2
+
+2023-10-21 04:57:16.240 [info] [127.0.0.1][6f99a169][ExtensionHostConnection] The client has reconnected.
+2023-10-21 04:57:16.523 [info] [127.0.0.1][1ee632ed][ManagementConnection] The client has reconnected.

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/664360851104332922
+creation_time: 1697876066487
+experiment_id: '664360851104332922'
+last_update_time: 1697876066487
+lifecycle_stage: active
+name: price-prediction-car
